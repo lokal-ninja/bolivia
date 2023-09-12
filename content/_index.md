@@ -1,0 +1,1 @@
+Bolivia, oficialmente el Estado Plurinacional de Bolivia​, es un país soberano ubicado en la región centro occidental de América del Sur, miembro de la Comunidad Andina,​ constituido políticamente como un Estado social plurinacional, unitario, descentralizado y con autonomías.​El país está organizado en nueve departamentos y ciento doce provincias. (Wikipedia)
