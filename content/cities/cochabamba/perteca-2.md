@@ -1,5 +1,5 @@
 ---
 title: "Perteca"
-url: /cochabamba/perteca/
+url: /cochabamba/perteca-2/
 shop: hardware
 ---

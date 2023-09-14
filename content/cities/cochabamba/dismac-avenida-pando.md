@@ -1,5 +1,5 @@
 ---
 title: "Dismac"
-url: /cochabamba/dismac/
+url: /cochabamba/dismac-avenida-pando/
 shop: hágalo usted mismo
 ---

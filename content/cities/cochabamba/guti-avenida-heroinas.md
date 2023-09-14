@@ -1,5 +1,5 @@
 ---
 title: "Guti"
-url: /cochabamba/guti/
+url: /cochabamba/guti-avenida-heroinas/
 shop: zapatos
 ---

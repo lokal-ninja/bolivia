@@ -1,5 +1,5 @@
 ---
 title: "Manaco"
-url: /cochabamba/manaco/
+url: /cochabamba/manaco-calle-25-de-mayo/
 shop: zapatos
 ---

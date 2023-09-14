@@ -1,5 +1,5 @@
 ---
 title: "Chapería"
-url: /cochabamba/chaperia/
+url: /cochabamba/chaperia-calle-diego-de-almagro/
 shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodeguita"
-url: /la-paz/bodeguita/
+url: /la-paz/bodeguita-avenida-buenos-aires/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Productos Tintilay"
-url: /villazon/productos-tintilay/
+url: /villazon/productos-tintilay-avenida-republica-argentina/
 shop: especias
 ---

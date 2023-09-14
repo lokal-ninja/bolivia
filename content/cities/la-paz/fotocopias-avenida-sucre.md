@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias"
-url: /la-paz/fotocopias/
+url: /la-paz/fotocopias-avenida-sucre/
 shop: copyshop
 ---

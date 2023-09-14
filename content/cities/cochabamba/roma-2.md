@@ -1,5 +1,5 @@
 ---
 title: "Roma"
-url: /cochabamba/roma/
+url: /cochabamba/roma-2/
 shop: peluquería
 ---

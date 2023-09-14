@@ -1,5 +1,5 @@
 ---
 title: "Jugos"
-url: /municipio-el-alto/jugos/
+url: /municipio-el-alto/jugos-avenida-civica/
 shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Impulse"
-url: /cochabamba/impulse/
+url: /cochabamba/impulse-avenida-america/
 shop: deportes
 ---

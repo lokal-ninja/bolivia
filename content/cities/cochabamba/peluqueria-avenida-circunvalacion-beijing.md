@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
-url: /cochabamba/peluqueria/
+url: /cochabamba/peluqueria-avenida-circunvalacion-beijing/
 shop: peluquería
 ---

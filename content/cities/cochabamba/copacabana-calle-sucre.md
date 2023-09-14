@@ -1,5 +1,5 @@
 ---
 title: "Copacabana"
-url: /cochabamba/copacabana/
+url: /cochabamba/copacabana-calle-sucre/
 shop: peluquería
 ---

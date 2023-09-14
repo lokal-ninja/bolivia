@@ -1,5 +1,5 @@
 ---
 title: "La Francesa"
-url: /cochabamba/la-francesa/
+url: /cochabamba/la-francesa-calle-jordan/
 shop: pastelería
 ---

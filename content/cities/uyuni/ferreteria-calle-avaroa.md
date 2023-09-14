@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
-url: /uyuni/ferreteria/
+url: /uyuni/ferreteria-calle-avaroa/
 shop: hardware
 ---

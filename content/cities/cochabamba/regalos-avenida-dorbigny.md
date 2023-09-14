@@ -1,5 +1,5 @@
 ---
 title: "Regalos"
-url: /cochabamba/regalos/
+url: /cochabamba/regalos-avenida-dorbigny/
 shop: regalo
 ---

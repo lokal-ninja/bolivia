@@ -1,5 +1,5 @@
 ---
 title: "Simón"
-url: /cochabamba/simon/
+url: /cochabamba/simon-avenida-america/
 shop: general
 ---

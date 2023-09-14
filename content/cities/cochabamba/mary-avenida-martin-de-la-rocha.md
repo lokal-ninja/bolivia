@@ -1,5 +1,5 @@
 ---
 title: "Mary"
-url: /cochabamba/mary/
+url: /cochabamba/mary-avenida-martin-de-la-rocha/
 shop: peluquería
 ---

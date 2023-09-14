@@ -1,5 +1,5 @@
 ---
 title: "Almanza"
-url: /cochabamba/almanza/
+url: /cochabamba/almanza-avenida-general-jose-de-san-martin/
 shop: ropa
 ---

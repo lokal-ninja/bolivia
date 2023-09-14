@@ -1,5 +1,5 @@
 ---
 title: "Almanza"
-url: /cochabamba/almanza/
+url: /cochabamba/almanza-calle-25-de-mayo/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sastrería"
-url: /ciudad-satelite/sastreria/
+url: /ciudad-satelite/sastreria-calle-sebastian-mendoza/
 shop: sastre
 ---

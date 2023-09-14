@@ -1,5 +1,5 @@
 ---
 title: "Hipermaxi"
-url: /cochabamba/hipermaxi/
+url: /cochabamba/hipermaxi-avenida-oquendo/
 shop: supermercado
 ---

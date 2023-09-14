@@ -1,5 +1,5 @@
 ---
 title: "Autosud"
-url: /cochabamba/autosud/
+url: /cochabamba/autosud-avenida-portales/
 shop: reparación de automóviles
 ---

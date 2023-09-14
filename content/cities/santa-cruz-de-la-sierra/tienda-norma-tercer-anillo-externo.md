@@ -1,5 +1,5 @@
 ---
 title: "Tienda Norma"
-url: /santa-cruz-de-la-sierra/tienda-norma/
+url: /santa-cruz-de-la-sierra/tienda-norma-tercer-anillo-externo/
 shop: comodidad
 ---

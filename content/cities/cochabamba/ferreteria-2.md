@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
-url: /cochabamba/ferreteria/
+url: /cochabamba/ferreteria-2/
 shop: hardware
 ---

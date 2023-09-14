@@ -1,5 +1,5 @@
 ---
 title: "Delizia"
-url: /cochabamba/delizia/
+url: /cochabamba/delizia-avenida-dorbigny/
 shop: lácteos
 ---

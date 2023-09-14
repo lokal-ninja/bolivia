@@ -1,5 +1,5 @@
 ---
 title: "Llanteria"
-url: /samaipata/llanteria/
+url: /samaipata/llanteria-avenida-barrientos/
 shop: reparación de automóviles
 ---

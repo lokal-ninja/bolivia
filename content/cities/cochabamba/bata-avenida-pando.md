@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /cochabamba/bata/
+url: /cochabamba/bata-avenida-pando/
 shop: zapatos
 ---

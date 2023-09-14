@@ -1,5 +1,5 @@
 ---
 title: "Fair Play"
-url: /cochabamba/fair-play/
+url: /cochabamba/fair-play-avenida-jose-ballivian/
 shop: deportes
 ---

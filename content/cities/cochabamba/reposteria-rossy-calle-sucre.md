@@ -1,5 +1,5 @@
 ---
 title: "Repostería Rossy"
-url: /cochabamba/reposteria-rossy/
+url: /cochabamba/reposteria-rossy-calle-sucre/
 shop: panadería
 ---

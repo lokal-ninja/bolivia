@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias"
-url: /ciudad-satelite/fotocopias/
+url: /ciudad-satelite/fotocopias-calle-20/
 shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xpress"
-url: /cochabamba/xpress/
+url: /cochabamba/xpress-avenida-america/
 shop: bebidas
 ---

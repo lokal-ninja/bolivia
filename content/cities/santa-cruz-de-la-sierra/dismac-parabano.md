@@ -1,5 +1,5 @@
 ---
 title: "Dismac"
-url: /santa-cruz-de-la-sierra/dismac/
+url: /santa-cruz-de-la-sierra/dismac-parabano/
 shop: electrónica
 ---

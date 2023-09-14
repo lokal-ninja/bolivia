@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /la-paz/tienda/
+url: /la-paz/tienda-avenida-tejada-sorzano/
 shop: general
 ---

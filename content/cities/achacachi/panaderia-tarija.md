@@ -1,5 +1,5 @@
 ---
 title: "Panaderia"
-url: /achacachi/panaderia/
+url: /achacachi/panaderia-tarija/
 shop: panadería
 ---

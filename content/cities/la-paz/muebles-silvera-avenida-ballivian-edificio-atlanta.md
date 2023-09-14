@@ -1,5 +1,5 @@
 ---
 title: "Muebles Silvera"
-url: /la-paz/muebles-silvera/
+url: /la-paz/muebles-silvera-avenida-ballivian-edificio-atlanta/
 shop: muebles
 ---

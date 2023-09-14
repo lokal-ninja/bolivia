@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /ciudad-satelite/tienda/
+url: /ciudad-satelite/tienda-arturo-ballivian-otero/
 shop: comodidad
 ---

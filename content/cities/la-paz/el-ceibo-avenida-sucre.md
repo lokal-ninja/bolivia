@@ -1,5 +1,5 @@
 ---
 title: "EL CEIBO"
-url: /la-paz/el-ceibo/
+url: /la-paz/el-ceibo-avenida-sucre/
 shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urkupiña"
-url: /cochabamba/urkupina/
+url: /cochabamba/urkupina-avenida-chapare/
 shop: prestamista
 ---

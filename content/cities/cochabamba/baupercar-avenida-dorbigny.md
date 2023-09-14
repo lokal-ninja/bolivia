@@ -1,5 +1,5 @@
 ---
 title: "Baupercar"
-url: /cochabamba/baupercar/
+url: /cochabamba/baupercar-avenida-dorbigny/
 shop: cama
 ---

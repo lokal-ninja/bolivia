@@ -1,5 +1,5 @@
 ---
 title: "Hamburguesas"
-url: /ciudad-satelite/hamburguesas/
+url: /ciudad-satelite/hamburguesas-calle-hermano-e-morales-2/
 shop: quiosco
 ---

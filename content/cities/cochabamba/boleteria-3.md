@@ -1,5 +1,5 @@
 ---
 title: "Boletería"
-url: /cochabamba/boleteria/
+url: /cochabamba/boleteria-3/
 shop: entradas
 ---

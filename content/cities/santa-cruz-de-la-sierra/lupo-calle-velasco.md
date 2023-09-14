@@ -1,5 +1,5 @@
 ---
 title: "Lupo"
-url: /santa-cruz-de-la-sierra/lupo/
+url: /santa-cruz-de-la-sierra/lupo-calle-velasco/
 shop: ropa
 ---

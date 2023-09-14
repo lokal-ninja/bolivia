@@ -1,5 +1,5 @@
 ---
 title: "Impulse"
-url: /cochabamba/impulse/
+url: /cochabamba/impulse-plaza-14-de-septiembre/
 shop: deportes
 ---

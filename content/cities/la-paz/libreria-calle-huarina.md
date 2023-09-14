@@ -1,5 +1,5 @@
 ---
 title: "Libreria"
-url: /la-paz/libreria/
+url: /la-paz/libreria-calle-huarina/
 shop: material de oficina
 ---

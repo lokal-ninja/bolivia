@@ -1,5 +1,5 @@
 ---
 title: "Hipermaxi"
-url: /cochabamba/hipermaxi/
+url: /cochabamba/hipermaxi-avenida-juan-de-la-rosa/
 shop: supermercado
 ---

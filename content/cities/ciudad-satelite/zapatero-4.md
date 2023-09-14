@@ -1,5 +1,5 @@
 ---
 title: "Zapatero"
-url: /ciudad-satelite/zapatero/
+url: /ciudad-satelite/zapatero-4/
 shop: zapatos
 ---

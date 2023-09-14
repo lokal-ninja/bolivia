@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
-url: /cochabamba/gomeria/
+url: /cochabamba/gomeria-avenida-circunvalacion-beijing/
 shop: reparación de automóviles
 ---

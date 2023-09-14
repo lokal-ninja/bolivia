@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
-url: /cochabamba/carniceria/
+url: /cochabamba/carniceria-avenida-circunvalacion-beijing/
 shop: carnicero
 ---
