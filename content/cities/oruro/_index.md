@@ -1,6 +1,6 @@
 ---
 title: Oruro
 url: /oruro/
-latitude: -17.98
-longitude: -67.118
+latitude: -17.971
+longitude: -67.113
 ---
