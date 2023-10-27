@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /cochabamba/gomeria-2/
-shop: motocicleta
+shop: neumáticos
 ---
