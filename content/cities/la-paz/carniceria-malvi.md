@@ -1,5 +1,5 @@
 ---
-title: "carniceria Malvi"
+title: "Carniceria Malvi"
 url: /la-paz/carniceria-malvi/
-shop: supermercado
+shop: carnicero
 ---
