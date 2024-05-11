@@ -1,5 +1,5 @@
 ---
 title: "Copacabana"
 url: /cochabamba/copacabana/
-shop: peluquería
+shop: cosméticos
 ---
