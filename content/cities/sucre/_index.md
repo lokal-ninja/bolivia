@@ -1,6 +1,6 @@
 ---
 title: Sucre
 url: /sucre/
-latitude: -19.049
-longitude: -65.259
+latitude: -19.048
+longitude: -65.24
 ---
