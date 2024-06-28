@@ -1,5 +1,5 @@
 ---
-title: "Casa ideas"
+title: "Casa Ideas"
 url: /la-paz/casa-ideas-salida-estacionamiento/
-shop: centro comercial
+shop: cama
 ---
