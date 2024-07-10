@@ -1,5 +1,5 @@
 ---
 title: "Rossell"
 url: /cochabamba/rossell/
-shop: ropa
+shop: tienda de variedades
 ---
