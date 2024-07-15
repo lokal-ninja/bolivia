@@ -1,5 +1,5 @@
 ---
 title: "Rossell"
 url: /cochabamba/rossell-avenida-santa-cruz/
-shop: ropa
+shop: tienda de variedades
 ---
