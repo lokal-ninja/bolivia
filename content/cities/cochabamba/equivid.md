@@ -1,5 +1,5 @@
 ---
 title: "Equivid"
 url: /cochabamba/equivid/
-shop: suministros médicos
+shop: Sanitätshaus
 ---

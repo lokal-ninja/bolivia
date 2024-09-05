@@ -1,5 +1,5 @@
 ---
 title: "Natural"
 url: /samaipata/natural/
-shop: comodidad
+shop: Lebensmittel
 ---

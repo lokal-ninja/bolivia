@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /cochabamba/nike/
-shop: ropa
+shop: Kleidung
 ---

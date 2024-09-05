@@ -1,5 +1,5 @@
 ---
 title: "Salon Mery"
 url: /el-alto/salon-mery/
-shop: cosméticos
+shop: Kosmetik
 ---

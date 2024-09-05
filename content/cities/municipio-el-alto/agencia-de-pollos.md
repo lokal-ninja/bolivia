@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Pollos"
 url: /municipio-el-alto/agencia-de-pollos/
-shop: carnicero
+shop: Metzgerei
 ---

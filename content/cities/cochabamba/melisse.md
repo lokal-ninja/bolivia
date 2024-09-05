@@ -1,5 +1,5 @@
 ---
 title: "Melisse"
 url: /cochabamba/melisse/
-shop: joyería
+shop: Schmuck
 ---

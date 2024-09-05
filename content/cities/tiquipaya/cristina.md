@@ -1,5 +1,5 @@
 ---
 title: "Cristina"
 url: /tiquipaya/cristina/
-shop: comodidad
+shop: Lebensmittel
 ---

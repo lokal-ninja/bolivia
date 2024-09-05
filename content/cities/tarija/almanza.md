@@ -1,5 +1,5 @@
 ---
 title: "ALMANZA"
 url: /tarija/almanza/
-shop: ropa
+shop: Kleidung
 ---

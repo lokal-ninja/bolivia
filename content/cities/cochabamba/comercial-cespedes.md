@@ -1,5 +1,5 @@
 ---
 title: "Comercial Céspedes"
 url: /cochabamba/comercial-cespedes/
-shop: hardware
+shop: Eisenwaren
 ---

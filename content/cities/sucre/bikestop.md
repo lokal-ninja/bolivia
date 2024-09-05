@@ -1,5 +1,5 @@
 ---
 title: "BikeStop"
 url: /sucre/bikestop/
-shop: bicicleta
+shop: Fahrrad
 ---

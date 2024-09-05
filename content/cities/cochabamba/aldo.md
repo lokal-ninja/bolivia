@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /cochabamba/aldo/
-shop: zapatos
+shop: Schuhe
 ---

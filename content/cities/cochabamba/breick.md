@@ -1,5 +1,5 @@
 ---
 title: "Breick"
 url: /cochabamba/breick/
-shop: chocolate
+shop: Schokolade
 ---

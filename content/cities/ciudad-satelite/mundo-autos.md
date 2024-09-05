@@ -1,5 +1,5 @@
 ---
 title: "Mundo Autos"
 url: /ciudad-satelite/mundo-autos/
-shop: coche
+shop: Autohaus
 ---

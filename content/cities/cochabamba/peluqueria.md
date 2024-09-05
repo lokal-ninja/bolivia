@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
 url: /cochabamba/peluqueria/
-shop: peluquería
+shop: Friseur
 ---

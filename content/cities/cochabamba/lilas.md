@@ -1,5 +1,5 @@
 ---
 title: "Lilas"
 url: /cochabamba/lilas/
-shop: tienda
+shop: Modehaus
 ---

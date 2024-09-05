@@ -1,5 +1,5 @@
 ---
 title: "Edén"
 url: /cochabamba/eden/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Standard ELECTRIC"
 url: /cochabamba/standard-electric/
-shop: electrónica
+shop: Elektronik
 ---

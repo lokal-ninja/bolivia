@@ -1,5 +1,5 @@
 ---
 title: "Vizzano"
 url: /santa-cruz-de-la-sierra/vizzano/
-shop: zapatos
+shop: Schuhe
 ---

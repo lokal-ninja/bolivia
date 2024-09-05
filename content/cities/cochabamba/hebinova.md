@@ -1,5 +1,5 @@
 ---
 title: "Hebinova"
 url: /cochabamba/hebinova/
-shop: coser
+shop: Nähzubehör
 ---

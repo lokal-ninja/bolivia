@@ -1,5 +1,5 @@
 ---
 title: "Tienda Wanda"
 url: /la-paz/tienda-wanda/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "pepe's"
 url: /la-paz/pepes/
-shop: confitería
+shop: Süßwaren
 ---

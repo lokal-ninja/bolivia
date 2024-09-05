@@ -1,5 +1,5 @@
 ---
 title: "Pernos"
 url: /cochabamba/pernos/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Oruro"
 url: /los-negros/ferreteria-oruro/
-shop: hardware
+shop: Eisenwaren
 ---

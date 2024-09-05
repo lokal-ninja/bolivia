@@ -1,5 +1,5 @@
 ---
 title: "Pescaderia"
 url: /tarija/pescaderia/
-shop: marisco
+shop: Fisch
 ---

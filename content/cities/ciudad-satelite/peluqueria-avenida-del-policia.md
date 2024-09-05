@@ -1,5 +1,5 @@
 ---
-title: "Peluquería"
+title: "Peluqueria"
 url: /ciudad-satelite/peluqueria-avenida-del-policia/
-shop: peluquería
+shop: Friseur
 ---

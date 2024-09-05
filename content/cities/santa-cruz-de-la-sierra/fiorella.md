@@ -1,5 +1,5 @@
 ---
 title: "Fiorella"
 url: /santa-cruz-de-la-sierra/fiorella/
-shop: zapatos
+shop: Schuhe
 ---

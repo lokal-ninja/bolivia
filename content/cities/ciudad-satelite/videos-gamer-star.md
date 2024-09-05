@@ -1,5 +1,5 @@
 ---
 title: "Videos Gamer Star"
 url: /ciudad-satelite/videos-gamer-star/
-shop: vídeo
+shop: Videothek
 ---

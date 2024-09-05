@@ -1,5 +1,5 @@
 ---
 title: "Esplendida"
 url: /santa-cruz-de-la-sierra/esplendida/
-shop: ropa
+shop: Kleidung
 ---

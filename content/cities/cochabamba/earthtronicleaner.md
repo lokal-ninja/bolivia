@@ -1,5 +1,5 @@
 ---
 title: "EarthTroniCleaner"
 url: /cochabamba/earthtronicleaner/
-shop: electrónica
+shop: Elektronik
 ---

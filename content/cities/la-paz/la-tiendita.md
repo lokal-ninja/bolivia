@@ -1,5 +1,5 @@
 ---
 title: "La tiendita"
 url: /la-paz/la-tiendita/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SANDDER"
 url: /ciudad-satelite/sandder/
-shop: zapatos
+shop: Schuhe
 ---

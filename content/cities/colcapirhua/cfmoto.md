@@ -1,5 +1,5 @@
 ---
 title: "CFMoto"
 url: /colcapirhua/cfmoto/
-shop: motocicleta
+shop: Motorrad
 ---

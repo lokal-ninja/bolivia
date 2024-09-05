@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria Valle Fertil"
 url: /samaipata/agropecuaria-valle-fertil/
-shop: agraria
+shop: Landwirtschaftlich
 ---

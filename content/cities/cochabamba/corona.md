@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /cochabamba/corona/
-shop: general
+shop: Allgemein
 ---

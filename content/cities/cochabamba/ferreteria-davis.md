@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Davi's"
 url: /cochabamba/ferreteria-davis/
-shop: hardware
+shop: Eisenwaren
 ---

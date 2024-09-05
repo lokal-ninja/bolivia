@@ -1,5 +1,5 @@
 ---
 title: "Azteka"
 url: /la-paz/azteka/
-shop: general
+shop: Allgemein
 ---

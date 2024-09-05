@@ -1,5 +1,5 @@
 ---
 title: "Sartrería Acha's"
 url: /cochabamba/sartreria-achas/
-shop: sastre
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Margarita"
 url: /sucre/margarita/
-shop: tela
+shop: Textil
 ---

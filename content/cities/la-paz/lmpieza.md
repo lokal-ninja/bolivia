@@ -1,5 +1,5 @@
 ---
 title: "Lmpieza"
 url: /la-paz/lmpieza/
-shop: lavandería
+shop: Wäscherei
 ---

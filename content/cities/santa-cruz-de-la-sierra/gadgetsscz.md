@@ -1,5 +1,5 @@
 ---
 title: "GadgetsSCZ"
 url: /santa-cruz-de-la-sierra/gadgetsscz/
-shop: electrónica
+shop: Elektronik
 ---

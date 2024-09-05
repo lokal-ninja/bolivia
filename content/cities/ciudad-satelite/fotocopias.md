@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias"
 url: /ciudad-satelite/fotocopias/
-shop: copyshop
+shop: Kopieren
 ---

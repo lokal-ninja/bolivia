@@ -1,5 +1,5 @@
 ---
 title: "Olimpia"
 url: /cochabamba/olimpia/
-shop: lavandería
+shop: Wäscherei
 ---

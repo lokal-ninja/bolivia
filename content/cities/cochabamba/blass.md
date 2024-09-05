@@ -1,5 +1,5 @@
 ---
 title: "Blass"
 url: /cochabamba/blass/
-shop: hardware
+shop: Eisenwaren
 ---

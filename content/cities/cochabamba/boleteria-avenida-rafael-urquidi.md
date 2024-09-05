@@ -1,5 +1,5 @@
 ---
 title: "Boletería"
 url: /cochabamba/boleteria-avenida-rafael-urquidi/
-shop: entradas
+shop: Tickets
 ---

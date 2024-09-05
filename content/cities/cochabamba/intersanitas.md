@@ -1,5 +1,5 @@
 ---
 title: "Intersanitas"
 url: /cochabamba/intersanitas/
-shop: general
+shop: Allgemein
 ---

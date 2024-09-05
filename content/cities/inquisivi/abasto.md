@@ -1,5 +1,5 @@
 ---
 title: "Abasto"
 url: /inquisivi/abasto/
-shop: comodidad
+shop: Lebensmittel
 ---

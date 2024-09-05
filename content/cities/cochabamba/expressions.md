@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /cochabamba/expressions/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

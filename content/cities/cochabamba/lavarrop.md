@@ -1,5 +1,5 @@
 ---
 title: "Lavarrop"
 url: /cochabamba/lavarrop/
-shop: lavandería
+shop: Wäscherei
 ---

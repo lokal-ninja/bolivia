@@ -1,5 +1,5 @@
 ---
 title: "Gonay Store"
 url: /la-paz/gonay-store/
-shop: general
+shop: Allgemein
 ---

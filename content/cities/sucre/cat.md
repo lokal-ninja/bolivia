@@ -1,5 +1,5 @@
 ---
 title: "CAT"
 url: /sucre/cat/
-shop: deportes
+shop: Sport
 ---

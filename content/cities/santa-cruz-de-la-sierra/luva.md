@@ -1,5 +1,5 @@
 ---
 title: "Luva"
 url: /santa-cruz-de-la-sierra/luva/
-shop: general
+shop: Allgemein
 ---

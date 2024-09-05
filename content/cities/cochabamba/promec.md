@@ -1,5 +1,5 @@
 ---
 title: "Promec"
 url: /cochabamba/promec/
-shop: muebles
+shop: Möbel
 ---

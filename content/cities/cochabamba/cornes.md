@@ -1,5 +1,5 @@
 ---
 title: "Cornes"
 url: /cochabamba/cornes/
-shop: carnicero
+shop: Metzgerei
 ---

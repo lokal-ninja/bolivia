@@ -1,5 +1,5 @@
 ---
 title: "Óptica Alvas"
 url: /cochabamba/optica-alvas/
-shop: óptico
+shop: Optiker
 ---

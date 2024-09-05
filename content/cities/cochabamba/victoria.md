@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /cochabamba/victoria/
-shop: comodidad
+shop: Lebensmittel
 ---

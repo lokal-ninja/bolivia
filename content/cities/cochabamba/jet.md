@@ -1,5 +1,5 @@
 ---
 title: "Jet"
 url: /cochabamba/jet/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iMarket"
 url: /cochabamba/imarket/
-shop: teléfono móvil
+shop: Handy
 ---

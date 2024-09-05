@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Campero"
 url: /cochabamba/ferreteria-campero/
-shop: hardware
+shop: Eisenwaren
 ---

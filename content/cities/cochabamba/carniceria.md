@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
 url: /cochabamba/carniceria/
-shop: carnicero
+shop: Metzgerei
 ---

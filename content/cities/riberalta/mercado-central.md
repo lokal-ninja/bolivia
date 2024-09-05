@@ -1,5 +1,5 @@
 ---
 title: "Mercado Central"
 url: /riberalta/mercado-central/
-shop: supermercado
+shop: Supermarkt
 ---

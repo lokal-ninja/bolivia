@@ -1,5 +1,5 @@
 ---
 title: "Feterreteria"
 url: /tarija/feterreteria/
-shop: hardware
+shop: Eisenwaren
 ---

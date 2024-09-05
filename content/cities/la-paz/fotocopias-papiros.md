@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias Papiro's"
 url: /la-paz/fotocopias-papiros/
-shop: copyshop
+shop: Kopieren
 ---

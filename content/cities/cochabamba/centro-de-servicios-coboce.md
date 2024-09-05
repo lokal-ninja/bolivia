@@ -1,5 +1,5 @@
 ---
 title: "Centro de Servicios COBOCE"
 url: /cochabamba/centro-de-servicios-coboce/
-shop: comercio
+shop: Baustoffe
 ---

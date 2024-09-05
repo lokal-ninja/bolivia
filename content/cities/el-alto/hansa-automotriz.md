@@ -1,5 +1,5 @@
 ---
 title: "Hansa Automotriz"
 url: /el-alto/hansa-automotriz/
-shop: coche
+shop: Autohaus
 ---

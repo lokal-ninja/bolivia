@@ -1,5 +1,5 @@
 ---
 title: "Pollos EMMA"
 url: /ciudad-satelite/pollos-emma/
-shop: carnicero
+shop: Metzgerei
 ---

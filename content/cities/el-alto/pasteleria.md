@@ -1,5 +1,5 @@
 ---
 title: "pasteleria"
 url: /el-alto/pasteleria/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /la-paz/samsung/
-shop: electrónica
+shop: Elektronik
 ---

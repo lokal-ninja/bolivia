@@ -1,5 +1,5 @@
 ---
 title: "VilGil"
 url: /tarija/vilgil/
-shop: cosméticos
+shop: Kosmetik
 ---

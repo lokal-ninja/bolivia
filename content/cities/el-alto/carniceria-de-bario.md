@@ -1,5 +1,5 @@
 ---
 title: "Carniceria de Bario"
 url: /el-alto/carniceria-de-bario/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pieers"
 url: /santa-cruz-de-la-sierra/pieers/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GRAFISOL"
 url: /cochabamba/grafisol/
-shop: libros
+shop: Bücher
 ---

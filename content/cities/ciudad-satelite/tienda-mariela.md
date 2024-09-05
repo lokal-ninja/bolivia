@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mariela"
 url: /ciudad-satelite/tienda-mariela/
-shop: comodidad
+shop: Lebensmittel
 ---

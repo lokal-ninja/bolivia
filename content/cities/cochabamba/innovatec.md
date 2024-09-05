@@ -1,5 +1,5 @@
 ---
 title: "Innovatec"
 url: /cochabamba/innovatec/
-shop: comodidad
+shop: Lebensmittel
 ---

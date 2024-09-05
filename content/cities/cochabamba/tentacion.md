@@ -1,5 +1,5 @@
 ---
 title: "Tentación"
 url: /cochabamba/tentacion/
-shop: ropa
+shop: Kleidung
 ---

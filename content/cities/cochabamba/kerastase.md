@@ -1,5 +1,5 @@
 ---
 title: "Kerastase"
 url: /cochabamba/kerastase/
-shop: peluquería
+shop: Friseur
 ---

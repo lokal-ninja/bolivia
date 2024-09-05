@@ -1,5 +1,5 @@
 ---
 title: "Xanadú"
 url: /la-paz/xanadu/
-shop: música
+shop: Musik
 ---

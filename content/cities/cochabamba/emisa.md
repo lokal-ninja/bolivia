@@ -1,5 +1,5 @@
 ---
 title: "EMISA"
 url: /cochabamba/emisa/
-shop: comercio
+shop: Baustoffe
 ---

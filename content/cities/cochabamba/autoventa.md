@@ -1,5 +1,5 @@
 ---
 title: "Autoventa"
 url: /cochabamba/autoventa/
-shop: coche
+shop: Autohaus
 ---

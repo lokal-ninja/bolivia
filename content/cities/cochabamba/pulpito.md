@@ -1,5 +1,5 @@
 ---
 title: "Pulpito"
 url: /cochabamba/pulpito/
-shop: pastelería
+shop: Konditorei
 ---

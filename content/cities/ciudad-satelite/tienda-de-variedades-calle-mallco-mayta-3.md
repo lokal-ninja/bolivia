@@ -1,5 +1,5 @@
 ---
 title: "Tienda de variedades"
 url: /ciudad-satelite/tienda-de-variedades-calle-mallco-mayta-3/
-shop: comodidad
+shop: Lebensmittel
 ---

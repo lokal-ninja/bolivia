@@ -1,5 +1,5 @@
 ---
 title: "Moneygram"
 url: /punata/moneygram/
-shop: prestamista
+shop: Leiher
 ---

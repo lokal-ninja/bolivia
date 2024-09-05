@@ -1,5 +1,5 @@
 ---
 title: "Comercial América"
 url: /cochabamba/comercial-america/
-shop: general
+shop: Allgemein
 ---

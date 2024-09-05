@@ -1,5 +1,5 @@
 ---
 title: "Doña Pascuala"
 url: /la-paz/dona-pascuala/
-shop: general
+shop: Allgemein
 ---

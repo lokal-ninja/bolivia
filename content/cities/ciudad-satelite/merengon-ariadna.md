@@ -1,5 +1,5 @@
 ---
 title: "Merengón Ariadna"
 url: /ciudad-satelite/merengon-ariadna/
-shop: pastelería
+shop: Konditorei
 ---

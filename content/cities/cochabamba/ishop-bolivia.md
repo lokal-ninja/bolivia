@@ -1,5 +1,5 @@
 ---
 title: "iShop Bolivia"
 url: /cochabamba/ishop-bolivia/
-shop: electrónica
+shop: Elektronik
 ---

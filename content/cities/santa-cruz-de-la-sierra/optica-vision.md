@@ -1,5 +1,5 @@
 ---
 title: "Optica Vision"
 url: /santa-cruz-de-la-sierra/optica-vision/
-shop: óptico
+shop: Optiker
 ---

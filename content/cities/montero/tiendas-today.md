@@ -1,5 +1,5 @@
 ---
 title: "Tiendas Today"
 url: /montero/tiendas-today/
-shop: supermercado
+shop: Supermarkt
 ---

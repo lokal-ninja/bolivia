@@ -1,5 +1,5 @@
 ---
 title: "RHENN"
 url: /cochabamba/rhenn/
-shop: eléctrico
+shop: Elektrisch
 ---

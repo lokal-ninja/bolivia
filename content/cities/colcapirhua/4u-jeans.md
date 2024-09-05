@@ -1,5 +1,5 @@
 ---
 title: "4U Jeans"
 url: /colcapirhua/4u-jeans/
-shop: ropa
+shop: Kleidung
 ---

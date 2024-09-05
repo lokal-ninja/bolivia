@@ -1,5 +1,5 @@
 ---
 title: "Optica Rozzen"
 url: /la-paz/optica-rozzen/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferrocasa"
 url: /cochabamba/ferrocasa/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oficinas en Alquiler"
 url: /municipio-el-alto/oficinas-en-alquiler/
-shop: vacante
+shop: Leerstehend
 ---

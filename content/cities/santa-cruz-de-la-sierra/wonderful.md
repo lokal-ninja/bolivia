@@ -1,5 +1,5 @@
 ---
 title: "Wonderful"
 url: /santa-cruz-de-la-sierra/wonderful/
-shop: supermercado
+shop: Supermarkt
 ---

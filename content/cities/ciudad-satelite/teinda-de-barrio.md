@@ -1,5 +1,5 @@
 ---
 title: "Teinda de Barrio"
 url: /ciudad-satelite/teinda-de-barrio/
-shop: comodidad
+shop: Lebensmittel
 ---

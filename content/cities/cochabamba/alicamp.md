@@ -1,5 +1,5 @@
 ---
 title: "Alicamp"
 url: /cochabamba/alicamp/
-shop: comodidad
+shop: Lebensmittel
 ---

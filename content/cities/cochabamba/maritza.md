@@ -1,5 +1,5 @@
 ---
 title: "Maritza"
 url: /cochabamba/maritza/
-shop: peluquería
+shop: Friseur
 ---

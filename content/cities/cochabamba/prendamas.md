@@ -1,5 +1,5 @@
 ---
 title: "Prendamás"
 url: /cochabamba/prendamas/
-shop: prestamista
+shop: Leiher
 ---

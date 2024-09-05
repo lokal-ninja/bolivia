@@ -1,5 +1,5 @@
 ---
 title: "Libreria"
 url: /la-paz/libreria-rigoberto-paredes/
-shop: libros
+shop: Bücher
 ---

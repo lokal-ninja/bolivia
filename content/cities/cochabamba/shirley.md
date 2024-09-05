@@ -1,5 +1,5 @@
 ---
 title: "Shirley"
 url: /cochabamba/shirley/
-shop: comodidad
+shop: Lebensmittel
 ---

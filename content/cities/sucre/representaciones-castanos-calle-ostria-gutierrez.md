@@ -1,5 +1,5 @@
 ---
 title: "Representaciones Castaños"
 url: /sucre/representaciones-castanos-calle-ostria-gutierrez/
-shop: hardware
+shop: Eisenwaren
 ---

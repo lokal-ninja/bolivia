@@ -1,5 +1,5 @@
 ---
 title: "Alicia"
 url: /cochabamba/alicia/
-shop: frutería
+shop: Gemüse & Obst
 ---

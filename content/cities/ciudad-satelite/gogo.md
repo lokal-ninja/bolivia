@@ -1,5 +1,5 @@
 ---
 title: "GoGo"
 url: /ciudad-satelite/gogo/
-shop: pastelería
+shop: Konditorei
 ---

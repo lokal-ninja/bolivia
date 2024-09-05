@@ -1,5 +1,5 @@
 ---
 title: "Tienda Santa Barbara"
 url: /pomanaza/tienda-santa-barbara/
-shop: comodidad
+shop: Lebensmittel
 ---

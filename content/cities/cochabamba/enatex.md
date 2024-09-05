@@ -1,5 +1,5 @@
 ---
 title: "Enatex"
 url: /cochabamba/enatex/
-shop: ropa
+shop: Kleidung
 ---

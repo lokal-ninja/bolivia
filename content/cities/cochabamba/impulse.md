@@ -1,5 +1,5 @@
 ---
 title: "Impulse"
 url: /cochabamba/impulse/
-shop: deportes
+shop: Sport
 ---

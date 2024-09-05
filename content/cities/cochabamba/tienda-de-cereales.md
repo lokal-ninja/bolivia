@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Cereales"
 url: /cochabamba/tienda-de-cereales/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacen Aneliz"
 url: /la-paz/almacen-aneliz/
-shop: comodidad
+shop: Lebensmittel
 ---

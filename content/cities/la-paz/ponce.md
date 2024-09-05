@@ -1,5 +1,5 @@
 ---
 title: "Ponce"
 url: /la-paz/ponce/
-shop: bebidas
+shop: Getränke
 ---

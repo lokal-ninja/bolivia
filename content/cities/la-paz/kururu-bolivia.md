@@ -1,5 +1,5 @@
 ---
 title: "Kururu Bolivia"
 url: /la-paz/kururu-bolivia/
-shop: juguetes
+shop: Spielzeug
 ---

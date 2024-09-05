@@ -1,5 +1,5 @@
 ---
 title: "SNACK Hamburguesas"
 url: /ciudad-satelite/snack-hamburguesas/
-shop: quiosco
+shop: Kiosk
 ---

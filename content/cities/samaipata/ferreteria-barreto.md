@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Barreto"
 url: /samaipata/ferreteria-barreto/
-shop: hardware
+shop: Eisenwaren
 ---

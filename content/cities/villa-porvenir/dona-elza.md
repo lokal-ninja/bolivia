@@ -1,5 +1,5 @@
 ---
 title: "Doña Elza"
 url: /villa-porvenir/dona-elza/
-shop: comodidad
+shop: Lebensmittel
 ---

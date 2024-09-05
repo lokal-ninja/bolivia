@@ -1,5 +1,5 @@
 ---
 title: "King Long"
 url: /el-alto/king-long/
-shop: coche
+shop: Autohaus
 ---

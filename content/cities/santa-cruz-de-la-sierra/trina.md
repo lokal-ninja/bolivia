@@ -1,5 +1,5 @@
 ---
 title: "Trina"
 url: /santa-cruz-de-la-sierra/trina/
-shop: cosméticos
+shop: Kosmetik
 ---

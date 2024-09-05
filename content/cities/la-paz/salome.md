@@ -1,5 +1,5 @@
 ---
 title: "Salome"
 url: /la-paz/salome/
-shop: general
+shop: Allgemein
 ---

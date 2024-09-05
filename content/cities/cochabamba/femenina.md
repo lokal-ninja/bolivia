@@ -1,5 +1,5 @@
 ---
 title: "Femenina"
 url: /cochabamba/femenina/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rodo Tintas"
 url: /santa-cruz-de-la-sierra/rodo-tintas/
-shop: copyshop
+shop: Kopieren
 ---

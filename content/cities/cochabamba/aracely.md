@@ -1,5 +1,5 @@
 ---
 title: "Aracely"
 url: /cochabamba/aracely/
-shop: quiosco
+shop: Kiosk
 ---

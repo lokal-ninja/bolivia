@@ -1,5 +1,5 @@
 ---
 title: "Centro Agricola ValleGrande"
 url: /vallegrande/centro-agricola-vallegrande/
-shop: agraria
+shop: Landwirtschaftlich
 ---

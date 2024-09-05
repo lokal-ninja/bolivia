@@ -1,5 +1,5 @@
 ---
 title: "Editorial Don Bosco"
 url: /cochabamba/editorial-don-bosco/
-shop: libros
+shop: Bücher
 ---

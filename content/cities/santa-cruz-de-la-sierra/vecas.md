@@ -1,5 +1,5 @@
 ---
 title: "Vecas"
 url: /santa-cruz-de-la-sierra/vecas/
-shop: general
+shop: Allgemein
 ---

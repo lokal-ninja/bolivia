@@ -1,5 +1,5 @@
 ---
 title: "Equimotors"
 url: /cochabamba/equimotors/
-shop: motocicleta
+shop: Motorrad
 ---

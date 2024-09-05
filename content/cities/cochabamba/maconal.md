@@ -1,5 +1,5 @@
 ---
 title: "Maconal"
 url: /cochabamba/maconal/
-shop: hardware
+shop: Eisenwaren
 ---

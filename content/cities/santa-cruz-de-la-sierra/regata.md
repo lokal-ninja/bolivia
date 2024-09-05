@@ -1,5 +1,5 @@
 ---
 title: "Regata"
 url: /santa-cruz-de-la-sierra/regata/
-shop: general
+shop: Allgemein
 ---

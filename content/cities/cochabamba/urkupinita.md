@@ -1,5 +1,5 @@
 ---
 title: "Urkupiñita"
 url: /cochabamba/urkupinita/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macor"
 url: /cochabamba/macor/
-shop: cocina
+shop: Küchen
 ---

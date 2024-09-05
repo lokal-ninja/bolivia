@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Los Negros"
 url: /los-negros/ferreteria-los-negros/
-shop: hardware
+shop: Eisenwaren
 ---

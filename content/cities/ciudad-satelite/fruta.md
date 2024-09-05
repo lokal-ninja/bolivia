@@ -1,5 +1,5 @@
 ---
 title: "Fruta"
 url: /ciudad-satelite/fruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

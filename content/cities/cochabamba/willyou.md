@@ -1,5 +1,5 @@
 ---
 title: "WillYou"
 url: /cochabamba/willyou/
-shop: lavandería
+shop: Wäscherei
 ---

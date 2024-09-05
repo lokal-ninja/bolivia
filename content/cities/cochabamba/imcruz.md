@@ -1,5 +1,5 @@
 ---
 title: "Imcruz"
 url: /cochabamba/imcruz/
-shop: coche
+shop: Autohaus
 ---

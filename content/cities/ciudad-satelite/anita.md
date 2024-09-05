@@ -1,5 +1,5 @@
 ---
 title: "Anita"
 url: /ciudad-satelite/anita/
-shop: comodidad
+shop: Lebensmittel
 ---

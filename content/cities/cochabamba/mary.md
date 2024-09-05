@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /cochabamba/mary/
-shop: comodidad
+shop: Lebensmittel
 ---

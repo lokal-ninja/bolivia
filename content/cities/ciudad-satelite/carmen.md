@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
 url: /ciudad-satelite/carmen/
-shop: mascotas
+shop: Tiere
 ---

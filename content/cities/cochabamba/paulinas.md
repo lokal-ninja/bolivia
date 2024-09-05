@@ -1,5 +1,5 @@
 ---
 title: "Paulinas"
 url: /cochabamba/paulinas/
-shop: libros
+shop: Bücher
 ---

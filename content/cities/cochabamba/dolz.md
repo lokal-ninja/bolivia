@@ -1,5 +1,5 @@
 ---
 title: "Dolz"
 url: /cochabamba/dolz/
-shop: vino
+shop: Wein
 ---

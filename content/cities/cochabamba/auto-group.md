@@ -1,5 +1,5 @@
 ---
 title: "Auto Group"
 url: /cochabamba/auto-group/
-shop: coche
+shop: Autohaus
 ---

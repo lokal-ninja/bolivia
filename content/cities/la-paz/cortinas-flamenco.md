@@ -1,5 +1,5 @@
 ---
 title: "Cortinas Flamenco"
 url: /la-paz/cortinas-flamenco/
-shop: cortina
+shop: Gardinen
 ---

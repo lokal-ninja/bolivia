@@ -1,5 +1,5 @@
 ---
 title: "Taiyo Motors"
 url: /cochabamba/taiyo-motors/
-shop: coche
+shop: Autohaus
 ---

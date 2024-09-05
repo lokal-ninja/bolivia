@@ -1,5 +1,5 @@
 ---
 title: "Tienda Surtida"
 url: /el-alto/tienda-surtida/
-shop: general
+shop: Allgemein
 ---

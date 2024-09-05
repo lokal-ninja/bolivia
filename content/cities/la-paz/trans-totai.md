@@ -1,5 +1,5 @@
 ---
 title: "Trans Totai"
 url: /la-paz/trans-totai/
-shop: entradas
+shop: Tickets
 ---

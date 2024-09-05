@@ -1,5 +1,5 @@
 ---
 title: "Ambar"
 url: /cochabamba/ambar/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quilocons"
 url: /cochabamba/quilocons/
-shop: comercio
+shop: Baustoffe
 ---

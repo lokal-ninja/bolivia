@@ -1,5 +1,5 @@
 ---
 title: "Fotrama"
 url: /cochabamba/fotrama/
-shop: ropa
+shop: Kleidung
 ---

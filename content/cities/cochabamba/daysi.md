@@ -1,5 +1,5 @@
 ---
 title: "Daysi"
 url: /cochabamba/daysi/
-shop: decoración interior
+shop: Raumausstattung
 ---

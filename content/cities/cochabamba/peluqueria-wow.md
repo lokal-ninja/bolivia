@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Wow"
 url: /cochabamba/peluqueria-wow/
-shop: cosméticos
+shop: Kosmetik
 ---

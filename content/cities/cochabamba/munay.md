@@ -1,5 +1,5 @@
 ---
 title: "Munay"
 url: /cochabamba/munay/
-shop: regalo
+shop: Andenken
 ---

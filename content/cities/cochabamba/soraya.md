@@ -1,5 +1,5 @@
 ---
 title: "Soraya"
 url: /cochabamba/soraya/
-shop: hardware
+shop: Eisenwaren
 ---

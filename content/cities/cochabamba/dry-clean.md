@@ -1,5 +1,5 @@
 ---
 title: "Dry Clean"
 url: /cochabamba/dry-clean/
-shop: lavandería
+shop: Wäscherei
 ---

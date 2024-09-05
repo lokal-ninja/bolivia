@@ -1,5 +1,5 @@
 ---
 title: "Naturaleza"
 url: /cochabamba/naturaleza/
-shop: agua
+shop: Wasser
 ---

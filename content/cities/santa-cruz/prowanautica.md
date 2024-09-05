@@ -1,5 +1,5 @@
 ---
 title: "Prowanautica"
 url: /santa-cruz/prowanautica/
-shop: pesca
+shop: Angeln
 ---

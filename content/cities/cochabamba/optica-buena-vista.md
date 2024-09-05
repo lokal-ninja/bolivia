@@ -1,5 +1,5 @@
 ---
 title: "Óptica Buena Vista"
 url: /cochabamba/optica-buena-vista/
-shop: óptico
+shop: Optiker
 ---

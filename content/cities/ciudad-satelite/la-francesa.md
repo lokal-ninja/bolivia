@@ -1,5 +1,5 @@
 ---
 title: "La Francesa"
 url: /ciudad-satelite/la-francesa/
-shop: panadería
+shop: Bäckerei
 ---

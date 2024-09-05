@@ -1,5 +1,5 @@
 ---
 title: "Agrotécnica"
 url: /cochabamba/agrotecnica/
-shop: agraria
+shop: Landwirtschaftlich
 ---

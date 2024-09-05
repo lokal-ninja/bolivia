@@ -1,5 +1,5 @@
 ---
 title: "Face"
 url: /la-paz/face/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boletería"
 url: /puerto-guaqui/boleteria/
-shop: entradas
+shop: Tickets
 ---

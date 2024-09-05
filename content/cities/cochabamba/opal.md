@@ -1,5 +1,5 @@
 ---
 title: "Opal"
 url: /cochabamba/opal/
-shop: bebidas
+shop: Getränke
 ---

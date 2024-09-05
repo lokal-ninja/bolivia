@@ -1,5 +1,5 @@
 ---
 title: "Manaco"
 url: /la-paz/manaco/
-shop: zapatos
+shop: Schuhe
 ---

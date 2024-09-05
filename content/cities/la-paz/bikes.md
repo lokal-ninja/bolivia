@@ -1,5 +1,5 @@
 ---
 title: "Bikes"
 url: /la-paz/bikes/
-shop: general
+shop: Allgemein
 ---

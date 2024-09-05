@@ -1,5 +1,5 @@
 ---
 title: "Frutería"
 url: /cochabamba/fruteria/
-shop: frutería
+shop: Gemüse & Obst
 ---

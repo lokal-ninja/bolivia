@@ -1,5 +1,5 @@
 ---
 title: "Trans Renacer"
 url: /el-alto/trans-renacer/
-shop: entradas
+shop: Tickets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NUBA"
 url: /la-paz/nuba/
-shop: tienda
+shop: Modehaus
 ---

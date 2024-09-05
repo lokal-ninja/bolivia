@@ -1,5 +1,5 @@
 ---
 title: "tienda"
 url: /achacachi/tienda-3/
-shop: general
+shop: Allgemein
 ---

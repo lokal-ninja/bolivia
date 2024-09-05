@@ -1,5 +1,5 @@
 ---
 title: "Agencia Pil"
 url: /cochabamba/agencia-pil-2/
-shop: lácteos
+shop: Milch
 ---

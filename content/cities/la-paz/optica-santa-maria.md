@@ -1,5 +1,5 @@
 ---
 title: "Optica Santa Maria"
 url: /la-paz/optica-santa-maria/
-shop: óptico
+shop: Optiker
 ---

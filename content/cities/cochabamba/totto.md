@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /cochabamba/totto/
-shop: ropa
+shop: Kleidung
 ---

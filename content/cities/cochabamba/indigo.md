@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /cochabamba/indigo/
-shop: ropa
+shop: Kleidung
 ---

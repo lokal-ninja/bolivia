@@ -1,5 +1,5 @@
 ---
 title: "Agitato"
 url: /cochabamba/agitato/
-shop: deportes
+shop: Sport
 ---

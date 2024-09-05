@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Arte"
 url: /cochabamba/fiesta-arte/
-shop: floristería
+shop: Blumen
 ---

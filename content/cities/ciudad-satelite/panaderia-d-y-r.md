@@ -1,5 +1,5 @@
 ---
 title: "Panaderia D y R"
 url: /ciudad-satelite/panaderia-d-y-r/
-shop: panadería
+shop: Bäckerei
 ---

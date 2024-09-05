@@ -1,5 +1,5 @@
 ---
 title: "Mitsuba"
 url: /cochabamba/mitsuba/
-shop: ropa
+shop: Kleidung
 ---

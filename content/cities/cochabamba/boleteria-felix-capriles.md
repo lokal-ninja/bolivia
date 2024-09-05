@@ -1,5 +1,5 @@
 ---
 title: "Boletería Felix Capriles"
 url: /cochabamba/boleteria-felix-capriles/
-shop: entradas
+shop: Tickets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercatodo"
 url: /cochabamba/mercatodo/
-shop: comodidad
+shop: Lebensmittel
 ---

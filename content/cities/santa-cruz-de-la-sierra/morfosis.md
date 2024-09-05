@@ -1,5 +1,5 @@
 ---
 title: "Morfosis"
 url: /santa-cruz-de-la-sierra/morfosis/
-shop: general
+shop: Allgemein
 ---

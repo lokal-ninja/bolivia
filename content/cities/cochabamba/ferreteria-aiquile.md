@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Aiquile"
 url: /cochabamba/ferreteria-aiquile/
-shop: hardware
+shop: Eisenwaren
 ---

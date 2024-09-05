@@ -1,5 +1,5 @@
 ---
 title: "Ronied"
 url: /cochabamba/ronied/
-shop: ropa
+shop: Kleidung
 ---

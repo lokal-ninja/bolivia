@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Fidalga"
 url: /la-paz/supermercado-fidalga/
-shop: supermercado
+shop: Supermarkt
 ---
