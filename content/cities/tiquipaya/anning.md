@@ -1,5 +1,5 @@
 ---
 title: "AnNing"
 url: /tiquipaya/anning/
-shop: Raumausstattung
+shop: decoración interior
 ---

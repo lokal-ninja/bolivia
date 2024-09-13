@@ -1,5 +1,5 @@
 ---
 title: "City"
 url: /cochabamba/city/
-shop: Partyzubehör
+shop: fiesta
 ---

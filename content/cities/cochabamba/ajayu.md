@@ -1,5 +1,5 @@
 ---
 title: "Ajayu"
 url: /cochabamba/ajayu/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pharmatural"
 url: /santa-cruz-de-la-sierra/pharmatural/
-shop: Allgemein
+shop: general
 ---

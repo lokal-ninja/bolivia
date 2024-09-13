@@ -1,5 +1,5 @@
 ---
 title: "ROKA Ferreteria"
 url: /ciudad-satelite/roka-ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

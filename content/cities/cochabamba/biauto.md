@@ -1,5 +1,5 @@
 ---
 title: "BiAuto"
 url: /cochabamba/biauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

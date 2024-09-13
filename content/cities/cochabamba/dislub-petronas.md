@@ -1,5 +1,5 @@
 ---
 title: "DISLUB PETRONAS"
 url: /cochabamba/dislub-petronas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

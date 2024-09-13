@@ -1,5 +1,5 @@
 ---
 title: "Servicio Mecánico Automóvil Club Boliviano"
 url: /cochabamba/servicio-mecanico-automovil-club-boliviano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

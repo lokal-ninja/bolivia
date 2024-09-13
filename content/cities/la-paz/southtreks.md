@@ -1,5 +1,5 @@
 ---
 title: "Southtreks"
 url: /la-paz/southtreks/
-shop: Reisebüro
+shop: agencia de viajes
 ---

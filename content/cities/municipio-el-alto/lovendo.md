@@ -1,5 +1,5 @@
 ---
 title: "LOVENDO"
 url: /municipio-el-alto/lovendo/
-shop: Autohaus
+shop: coche
 ---

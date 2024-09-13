@@ -1,5 +1,5 @@
 ---
 title: "Frenosa"
 url: /la-paz/frenosa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

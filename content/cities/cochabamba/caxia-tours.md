@@ -1,5 +1,5 @@
 ---
 title: "Caxia Tours"
 url: /cochabamba/caxia-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

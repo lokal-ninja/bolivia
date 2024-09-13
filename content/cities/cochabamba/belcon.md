@@ -1,5 +1,5 @@
 ---
 title: "Belcon"
 url: /cochabamba/belcon/
-shop: Reifen
+shop: neumáticos
 ---

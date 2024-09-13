@@ -1,5 +1,5 @@
 ---
 title: "Almacén Ariana"
 url: /la-paz/almacen-ariana/
-shop: Lebensmittel
+shop: comodidad
 ---

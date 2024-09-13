@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Peca"
 url: /cochabamba/lubricantes-peca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galería  Titán"
 url: /cochabamba/galeria-titan/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

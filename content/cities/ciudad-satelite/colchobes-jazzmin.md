@@ -1,5 +1,5 @@
 ---
 title: "Colchobes JAZZMIN"
 url: /ciudad-satelite/colchobes-jazzmin/
-shop: Betten
+shop: cama
 ---

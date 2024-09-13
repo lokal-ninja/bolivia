@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /vinto/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

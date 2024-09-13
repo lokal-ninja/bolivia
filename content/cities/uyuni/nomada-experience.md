@@ -1,5 +1,5 @@
 ---
 title: "Nomada Experience"
 url: /uyuni/nomada-experience/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora G y Y"
 url: /cochabamba/distribuidora-g-y-y/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

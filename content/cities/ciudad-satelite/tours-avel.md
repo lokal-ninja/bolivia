@@ -1,5 +1,5 @@
 ---
 title: "Tours Avel"
 url: /ciudad-satelite/tours-avel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

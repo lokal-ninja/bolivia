@@ -1,5 +1,5 @@
 ---
 title: "Boletería"
 url: /cochabamba/boleteria-avenida-circuito-bolivia-3/
-shop: Tickets
+shop: entradas
 ---

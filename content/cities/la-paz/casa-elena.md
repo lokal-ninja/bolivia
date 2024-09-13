@@ -1,5 +1,5 @@
 ---
 title: "Casa Elena"
 url: /la-paz/casa-elena/
-shop: Kleidung
+shop: ropa
 ---

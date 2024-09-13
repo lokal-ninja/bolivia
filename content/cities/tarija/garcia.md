@@ -1,5 +1,5 @@
 ---
 title: "Garcia"
 url: /tarija/garcia/
-shop: Metzgerei
+shop: carnicero
 ---

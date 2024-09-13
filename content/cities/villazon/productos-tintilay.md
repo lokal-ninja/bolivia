@@ -1,5 +1,5 @@
 ---
 title: "Productos Tintilay"
 url: /villazon/productos-tintilay/
-shop: Gewürze
+shop: especias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honnen"
 url: /cochabamba/honnen/
-shop: Elektronik
+shop: electrónica
 ---

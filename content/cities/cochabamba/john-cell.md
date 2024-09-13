@@ -1,5 +1,5 @@
 ---
 title: "John Cell"
 url: /cochabamba/john-cell/
-shop: Handy
+shop: teléfono móvil
 ---

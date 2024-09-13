@@ -1,5 +1,5 @@
 ---
 title: "Tienda Doña Olga"
 url: /la-paz/tienda-dona-olga/
-shop: Lebensmittel
+shop: comodidad
 ---

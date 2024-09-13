@@ -1,5 +1,5 @@
 ---
 title: "TecnoFarma"
 url: /cochabamba/tecnofarma/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

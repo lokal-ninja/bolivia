@@ -1,5 +1,5 @@
 ---
 title: "ELA"
 url: /cochabamba/ela/
-shop: Gardinen
+shop: cortina
 ---

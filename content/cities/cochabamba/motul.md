@@ -1,5 +1,5 @@
 ---
 title: "Motul"
 url: /cochabamba/motul/
-shop: Motorrad
+shop: motocicleta
 ---

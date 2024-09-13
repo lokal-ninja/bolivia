@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Vallegrande"
 url: /vallegrande/ferreteria-vallegrande/
-shop: Eisenwaren
+shop: hardware
 ---

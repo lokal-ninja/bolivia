@@ -1,5 +1,5 @@
 ---
 title: "Tekeda"
 url: /cochabamba/tekeda/
-shop: Kleidung
+shop: ropa
 ---

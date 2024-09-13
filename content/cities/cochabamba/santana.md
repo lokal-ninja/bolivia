@@ -1,5 +1,5 @@
 ---
 title: "Santana"
 url: /cochabamba/santana/
-shop: Bestattungen
+shop: directores de funerarias
 ---

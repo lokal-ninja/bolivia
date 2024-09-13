@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Sucamir"
 url: /cochabamba/ferreteria-sucamir/
-shop: Eisenwaren
+shop: hardware
 ---

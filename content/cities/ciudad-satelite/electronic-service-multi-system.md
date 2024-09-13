@@ -1,5 +1,5 @@
 ---
 title: "Electronic Service Multi System"
 url: /ciudad-satelite/electronic-service-multi-system/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Campero"
 url: /quillacollo/campero/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial Chaparro"
 url: /cochabamba/comercial-chaparro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

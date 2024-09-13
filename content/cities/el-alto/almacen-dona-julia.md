@@ -1,5 +1,5 @@
 ---
 title: "Almacen Doña Julia"
 url: /el-alto/almacen-dona-julia/
-shop: Allgemein
+shop: general
 ---

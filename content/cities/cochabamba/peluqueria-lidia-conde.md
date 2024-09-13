@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Lidia Conde"
 url: /cochabamba/peluqueria-lidia-conde/
-shop: Friseur
+shop: peluquería
 ---

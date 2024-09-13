@@ -1,5 +1,5 @@
 ---
 title: "Joyería Carrasco"
 url: /santa-cruz-de-la-sierra/joyeria-carrasco/
-shop: Schmuck
+shop: joyería
 ---

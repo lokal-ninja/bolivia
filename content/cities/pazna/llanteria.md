@@ -1,5 +1,5 @@
 ---
 title: "Llanteria"
 url: /pazna/llanteria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

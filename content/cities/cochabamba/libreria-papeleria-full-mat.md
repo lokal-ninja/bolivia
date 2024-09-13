@@ -1,5 +1,5 @@
 ---
 title: "Librería Papelería Full-Mat"
 url: /cochabamba/libreria-papeleria-full-mat/
-shop: Schreibwaren
+shop: material de oficina
 ---

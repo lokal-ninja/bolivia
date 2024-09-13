@@ -1,5 +1,5 @@
 ---
 title: "Venta de Accesorios Computer"
 url: /tarija/venta-de-accesorios-computer/
-shop: Computer
+shop: ordenador
 ---

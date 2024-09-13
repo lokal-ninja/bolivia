@@ -1,5 +1,5 @@
 ---
 title: "Tienda de dulces"
 url: /ciudad-satelite/tienda-de-dulces/
-shop: Kiosk
+shop: quiosco
 ---

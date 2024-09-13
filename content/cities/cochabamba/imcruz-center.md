@@ -1,5 +1,5 @@
 ---
 title: "Imcruz Center"
 url: /cochabamba/imcruz-center/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

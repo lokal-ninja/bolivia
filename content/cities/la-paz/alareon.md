@@ -1,5 +1,5 @@
 ---
 title: "Alareon"
 url: /la-paz/alareon/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goma Art"
 url: /cochabamba/goma-art/
-shop: Autoteile
+shop: piezas de automóviles
 ---

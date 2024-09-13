@@ -1,5 +1,5 @@
 ---
 title: "Arandu Hosting"
 url: /tarija/arandu-hosting/
-shop: Supermarkt
+shop: supermercado
 ---

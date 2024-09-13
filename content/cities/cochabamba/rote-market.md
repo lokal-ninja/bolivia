@@ -1,5 +1,5 @@
 ---
 title: "Rote Market"
 url: /cochabamba/rote-market/
-shop: Supermarkt
+shop: supermercado
 ---

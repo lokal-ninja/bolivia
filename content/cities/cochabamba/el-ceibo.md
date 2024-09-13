@@ -1,5 +1,5 @@
 ---
 title: "El Ceibo"
 url: /cochabamba/el-ceibo/
-shop: Schokolade
+shop: chocolate
 ---

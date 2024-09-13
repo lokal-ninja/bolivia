@@ -1,5 +1,5 @@
 ---
 title: "Carnicos y Embutidos Cheff"
 url: /ciudad-satelite/carnicos-y-embutidos-cheff/
-shop: Metzgerei
+shop: carnicero
 ---

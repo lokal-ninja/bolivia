@@ -1,5 +1,5 @@
 ---
 title: "Decohouse"
 url: /cochabamba/decohouse/
-shop: Raumausstattung
+shop: decoración interior
 ---

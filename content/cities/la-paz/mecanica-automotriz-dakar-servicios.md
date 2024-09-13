@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Automotriz DAKAR Servicios"
 url: /la-paz/mecanica-automotriz-dakar-servicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catacora Tour"
 url: /la-paz/catacora-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

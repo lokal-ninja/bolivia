@@ -1,5 +1,5 @@
 ---
 title: "Pasteleria Laurita"
 url: /ciudad-satelite/pasteleria-laurita/
-shop: Konditorei
+shop: pastelería
 ---

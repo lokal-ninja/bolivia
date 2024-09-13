@@ -1,5 +1,5 @@
 ---
 title: "Taller Suzuki"
 url: /sucre/taller-suzuki/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

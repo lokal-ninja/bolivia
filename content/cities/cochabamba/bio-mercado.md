@@ -1,5 +1,5 @@
 ---
 title: "Bio Mercado"
 url: /cochabamba/bio-mercado/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Soldadura de Aluminio"
 url: /uyuni/soldadura-de-aluminio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

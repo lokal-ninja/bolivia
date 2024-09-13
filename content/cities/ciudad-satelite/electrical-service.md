@@ -1,5 +1,5 @@
 ---
 title: "Electrical Service"
 url: /ciudad-satelite/electrical-service/
-shop: Elektronik
+shop: electrónica
 ---

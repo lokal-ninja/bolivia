@@ -1,5 +1,5 @@
 ---
 title: "Yamaha Toyosa"
 url: /aguai/yamaha-toyosa/
-shop: Motorrad
+shop: motocicleta
 ---

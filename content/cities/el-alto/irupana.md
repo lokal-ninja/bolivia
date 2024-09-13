@@ -1,5 +1,5 @@
 ---
 title: "Irupana"
 url: /el-alto/irupana/
-shop: Lebensmittel
+shop: comodidad
 ---

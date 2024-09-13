@@ -1,5 +1,5 @@
 ---
 title: "Julieta"
 url: /tiquipaya/julieta/
-shop: Lebensmittel
+shop: comodidad
 ---

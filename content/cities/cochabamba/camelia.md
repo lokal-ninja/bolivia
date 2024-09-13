@@ -1,5 +1,5 @@
 ---
 title: "Camelia"
 url: /cochabamba/camelia/
-shop: Kleidung
+shop: ropa
 ---

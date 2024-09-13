@@ -1,5 +1,5 @@
 ---
 title: "Chicocos"
 url: /la-paz/chicocos/
-shop: Babysachen
+shop: artículos para bebés
 ---

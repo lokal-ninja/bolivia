@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /cochabamba/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

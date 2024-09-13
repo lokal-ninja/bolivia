@@ -1,5 +1,5 @@
 ---
 title: "Pío Rico"
 url: /cochabamba/pio-rico/
-shop: Metzgerei
+shop: carnicero
 ---

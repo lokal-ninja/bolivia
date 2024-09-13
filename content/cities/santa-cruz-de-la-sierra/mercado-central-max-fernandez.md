@@ -1,5 +1,5 @@
 ---
 title: "Mercado Central Max Fernandez"
 url: /santa-cruz-de-la-sierra/mercado-central-max-fernandez/
-shop: Warenhaus
+shop: grandes almacenes
 ---

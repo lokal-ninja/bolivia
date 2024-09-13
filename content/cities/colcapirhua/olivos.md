@@ -1,5 +1,5 @@
 ---
 title: "Olivos"
 url: /colcapirhua/olivos/
-shop: Fahrrad
+shop: bicicleta
 ---

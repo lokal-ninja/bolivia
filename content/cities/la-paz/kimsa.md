@@ -1,5 +1,5 @@
 ---
 title: "Kimsa"
 url: /la-paz/kimsa/
-shop: Allgemein
+shop: general
 ---

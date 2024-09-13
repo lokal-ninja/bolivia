@@ -1,5 +1,5 @@
 ---
 title: "Arándano"
 url: /cochabamba/arandano/
-shop: Kleidung
+shop: ropa
 ---

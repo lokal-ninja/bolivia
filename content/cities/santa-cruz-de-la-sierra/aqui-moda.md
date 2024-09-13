@@ -1,5 +1,5 @@
 ---
 title: "Aqui Moda"
 url: /santa-cruz-de-la-sierra/aqui-moda/
-shop: Kleidung
+shop: ropa
 ---

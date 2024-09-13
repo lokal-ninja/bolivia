@@ -1,5 +1,5 @@
 ---
 title: "Rodeo"
 url: /cochabamba/rodeo/
-shop: Metzgerei
+shop: carnicero
 ---

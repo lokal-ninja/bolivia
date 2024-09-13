@@ -1,5 +1,5 @@
 ---
 title: "Casa Azul"
 url: /cochabamba/casa-azul/
-shop: Immobilien
+shop: agente inmobiliario
 ---

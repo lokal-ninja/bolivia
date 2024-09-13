@@ -1,5 +1,5 @@
 ---
 title: "Servicio"
 url: /cochabamba/servicio/
-shop: Lebensmittel
+shop: comodidad
 ---

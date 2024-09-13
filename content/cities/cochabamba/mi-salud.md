@@ -1,5 +1,5 @@
 ---
 title: "Mi Salud"
 url: /cochabamba/mi-salud/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperMarket SUGOR"
 url: /la-paz/supermarket-sugor/
-shop: Lebensmittel
+shop: comodidad
 ---

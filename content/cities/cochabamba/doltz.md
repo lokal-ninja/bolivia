@@ -1,5 +1,5 @@
 ---
 title: "Doltz"
 url: /cochabamba/doltz/
-shop: Parfümerie
+shop: perfumería
 ---

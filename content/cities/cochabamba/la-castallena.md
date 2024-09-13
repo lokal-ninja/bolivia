@@ -1,5 +1,5 @@
 ---
 title: "La Castallena"
 url: /cochabamba/la-castallena/
-shop: Kramladen
+shop: tienda de variedades
 ---

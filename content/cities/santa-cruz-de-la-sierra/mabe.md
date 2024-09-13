@@ -1,5 +1,5 @@
 ---
 title: "Mabe"
 url: /santa-cruz-de-la-sierra/mabe/
-shop: Elektronik
+shop: electrónica
 ---

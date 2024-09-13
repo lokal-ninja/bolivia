@@ -1,5 +1,5 @@
 ---
 title: "Shooping VC"
 url: /cochabamba/shooping-vc/
-shop: Kramladen
+shop: tienda de variedades
 ---

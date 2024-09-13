@@ -1,5 +1,5 @@
 ---
 title: "Mumuso"
 url: /cochabamba/mumuso/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

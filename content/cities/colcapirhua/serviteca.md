@@ -1,5 +1,5 @@
 ---
 title: "Serviteca"
 url: /colcapirhua/serviteca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

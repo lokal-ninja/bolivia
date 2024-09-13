@@ -1,5 +1,5 @@
 ---
 title: "SUPERMALL"
 url: /cochabamba/supermall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

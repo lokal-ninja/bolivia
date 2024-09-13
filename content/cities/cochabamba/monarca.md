@@ -1,5 +1,5 @@
 ---
 title: "Monarca"
 url: /cochabamba/monarca/
-shop: Supermarkt
+shop: supermercado
 ---

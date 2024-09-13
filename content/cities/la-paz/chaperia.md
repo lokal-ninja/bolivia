@@ -1,5 +1,5 @@
 ---
 title: "chaperia"
 url: /la-paz/chaperia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

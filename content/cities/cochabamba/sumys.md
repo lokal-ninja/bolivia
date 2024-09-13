@@ -1,5 +1,5 @@
 ---
 title: "Sumys"
 url: /cochabamba/sumys/
-shop: Kleidung
+shop: ropa
 ---

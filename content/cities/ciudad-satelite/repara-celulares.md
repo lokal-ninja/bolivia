@@ -1,5 +1,5 @@
 ---
 title: "Repara Celulares"
 url: /ciudad-satelite/repara-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

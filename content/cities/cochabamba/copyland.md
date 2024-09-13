@@ -1,5 +1,5 @@
 ---
 title: "CopyLand"
 url: /cochabamba/copyland/
-shop: Kopieren
+shop: copyshop
 ---

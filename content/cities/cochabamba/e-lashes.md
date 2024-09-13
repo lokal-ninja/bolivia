@@ -1,5 +1,5 @@
 ---
 title: "E-Lashes"
 url: /cochabamba/e-lashes/
-shop: Kosmetik
+shop: cosméticos
 ---

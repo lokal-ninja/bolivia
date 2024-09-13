@@ -1,5 +1,5 @@
 ---
 title: "Faros"
 url: /cochabamba/faros-calle-junin/
-shop: Immobilien
+shop: agente inmobiliario
 ---

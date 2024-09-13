@@ -1,5 +1,5 @@
 ---
 title: "E.R.E. Genesis"
 url: /santa-cruz-de-la-sierra/e-r-e-genesis/
-shop: Reisebüro
+shop: agencia de viajes
 ---

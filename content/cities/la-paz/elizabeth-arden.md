@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Arden"
 url: /la-paz/elizabeth-arden/
-shop: Allgemein
+shop: general
 ---

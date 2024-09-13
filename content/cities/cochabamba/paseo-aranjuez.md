@@ -1,5 +1,5 @@
 ---
 title: "Paseo Aranjuez"
 url: /cochabamba/paseo-aranjuez/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

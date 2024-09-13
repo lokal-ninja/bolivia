@@ -1,5 +1,5 @@
 ---
 title: "Stabilo"
 url: /cochabamba/stabilo/
-shop: Schreibwaren
+shop: material de oficina
 ---

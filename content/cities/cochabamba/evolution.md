@@ -1,5 +1,5 @@
 ---
 title: "Evolution"
 url: /cochabamba/evolution/
-shop: Lebensmittel
+shop: comodidad
 ---

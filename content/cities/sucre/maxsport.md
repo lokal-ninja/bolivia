@@ -1,5 +1,5 @@
 ---
 title: "MaxSport"
 url: /sucre/maxsport/
-shop: Fahrrad
+shop: bicicleta
 ---

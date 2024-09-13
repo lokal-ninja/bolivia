@@ -1,5 +1,5 @@
 ---
 title: "Plastiquero"
 url: /cochabamba/plastiquero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

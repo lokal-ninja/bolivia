@@ -1,5 +1,5 @@
 ---
 title: "Servicio Electromecánica Automotríz SERVICRUZ"
 url: /la-paz/servicio-electromecanica-automotriz-servicruz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

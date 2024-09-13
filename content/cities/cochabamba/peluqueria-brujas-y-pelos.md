@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Brujas y Pelos"
 url: /cochabamba/peluqueria-brujas-y-pelos/
-shop: Friseur
+shop: peluquería
 ---

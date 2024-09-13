@@ -1,5 +1,5 @@
 ---
 title: "Llanteria"
 url: /tiquipaya/llanteria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

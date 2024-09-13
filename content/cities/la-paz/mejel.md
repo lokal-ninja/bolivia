@@ -1,5 +1,5 @@
 ---
 title: "Mejel"
 url: /la-paz/mejel/
-shop: Pool
+shop: piscina
 ---

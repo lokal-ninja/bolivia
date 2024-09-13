@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /la-paz/aldo/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pollos Andy"
 url: /cochabamba/pollos-andy/
-shop: Metzgerei
+shop: carnicero
 ---

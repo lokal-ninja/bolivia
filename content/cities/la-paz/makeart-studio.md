@@ -1,5 +1,5 @@
 ---
 title: "MakeArt Studio"
 url: /la-paz/makeart-studio/
-shop: Kosmetik
+shop: cosméticos
 ---

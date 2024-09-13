@@ -1,5 +1,5 @@
 ---
 title: "Alfombras"
 url: /la-paz/alfombras/
-shop: Allgemein
+shop: general
 ---

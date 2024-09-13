@@ -1,5 +1,5 @@
 ---
 title: "ROYAL OFFERCompany Cars"
 url: /municipio-el-alto/royal-offercompany-cars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punto TIGO"
 url: /ciudad-satelite/punto-tigo/
-shop: Handy
+shop: teléfono móvil
 ---

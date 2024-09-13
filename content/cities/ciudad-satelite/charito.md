@@ -1,5 +1,5 @@
 ---
 title: "Charito"
 url: /ciudad-satelite/charito/
-shop: Lebensmittel
+shop: comodidad
 ---

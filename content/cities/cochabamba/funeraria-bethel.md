@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Bethel"
 url: /cochabamba/funeraria-bethel/
-shop: Bestattungen
+shop: directores de funerarias
 ---

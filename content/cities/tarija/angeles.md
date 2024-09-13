@@ -1,5 +1,5 @@
 ---
 title: "Angeles"
 url: /tarija/angeles/
-shop: Schreibwaren
+shop: material de oficina
 ---

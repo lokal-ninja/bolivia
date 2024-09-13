@@ -1,5 +1,5 @@
 ---
 title: "AutoMundo"
 url: /cochabamba/automundo/
-shop: Autohaus
+shop: coche
 ---

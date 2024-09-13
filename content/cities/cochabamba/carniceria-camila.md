@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Camila"
 url: /cochabamba/carniceria-camila/
-shop: Metzgerei
+shop: carnicero
 ---

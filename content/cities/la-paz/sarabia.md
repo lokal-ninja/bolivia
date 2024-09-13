@@ -1,5 +1,5 @@
 ---
 title: "Sarabia"
 url: /la-paz/sarabia/
-shop: Allgemein
+shop: general
 ---

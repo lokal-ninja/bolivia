@@ -1,5 +1,5 @@
 ---
 title: "Suma Samawi"
 url: /copacabana/suma-samawi/
-shop: Allgemein
+shop: general
 ---

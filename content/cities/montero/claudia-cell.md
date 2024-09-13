@@ -1,5 +1,5 @@
 ---
 title: "Claudia Cell"
 url: /montero/claudia-cell/
-shop: Handy
+shop: teléfono móvil
 ---

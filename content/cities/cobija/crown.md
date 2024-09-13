@@ -1,5 +1,5 @@
 ---
 title: "Crown"
 url: /cobija/crown/
-shop: Autohaus
+shop: coche
 ---

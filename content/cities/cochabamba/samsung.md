@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /cochabamba/samsung/
-shop: Elektronik
+shop: electrónica
 ---

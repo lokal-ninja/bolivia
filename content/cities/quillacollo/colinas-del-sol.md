@@ -1,5 +1,5 @@
 ---
 title: "Colinas del Sol"
 url: /quillacollo/colinas-del-sol/
-shop: Milch
+shop: lácteos
 ---

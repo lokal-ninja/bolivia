@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /cochabamba/gomeria-avenida-america/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

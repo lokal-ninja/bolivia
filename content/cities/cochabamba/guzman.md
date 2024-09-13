@@ -1,5 +1,5 @@
 ---
 title: "Guzmán"
 url: /cochabamba/guzman/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

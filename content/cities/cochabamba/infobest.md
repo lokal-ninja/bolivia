@@ -1,5 +1,5 @@
 ---
 title: "INFOBEST"
 url: /cochabamba/infobest/
-shop: Computer
+shop: ordenador
 ---

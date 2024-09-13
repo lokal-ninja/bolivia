@@ -1,5 +1,5 @@
 ---
 title: "Turismo Sinergia"
 url: /cochabamba/turismo-sinergia/
-shop: Reisebüro
+shop: agencia de viajes
 ---

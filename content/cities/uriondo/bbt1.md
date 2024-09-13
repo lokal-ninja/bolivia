@@ -1,5 +1,5 @@
 ---
 title: "BBT1"
 url: /uriondo/bbt1/
-shop: Allgemein
+shop: general
 ---

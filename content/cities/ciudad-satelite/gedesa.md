@@ -1,5 +1,5 @@
 ---
 title: "GEDESA"
 url: /ciudad-satelite/gedesa/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

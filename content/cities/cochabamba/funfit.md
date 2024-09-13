@@ -1,5 +1,5 @@
 ---
 title: "Funfit"
 url: /cochabamba/funfit/
-shop: Bioladen
+shop: alimentación sana
 ---

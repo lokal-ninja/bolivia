@@ -1,5 +1,5 @@
 ---
 title: "Tienda Porvenir"
 url: /villa-porvenir/tienda-porvenir/
-shop: Lebensmittel
+shop: comodidad
 ---

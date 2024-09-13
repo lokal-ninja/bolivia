@@ -1,5 +1,5 @@
 ---
 title: "Tienda Brenny Garcia"
 url: /montero/tienda-brenny-garcia/
-shop: Lebensmittel
+shop: comodidad
 ---

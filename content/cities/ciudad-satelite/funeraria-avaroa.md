@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Avaroa"
 url: /ciudad-satelite/funeraria-avaroa/
-shop: Bestattungen
+shop: directores de funerarias
 ---

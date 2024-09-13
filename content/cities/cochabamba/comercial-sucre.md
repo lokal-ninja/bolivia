@@ -1,5 +1,5 @@
 ---
 title: "Comercial Sucre"
 url: /cochabamba/comercial-sucre/
-shop: Kleidung
+shop: ropa
 ---

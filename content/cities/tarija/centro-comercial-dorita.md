@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Dorita"
 url: /tarija/centro-comercial-dorita/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

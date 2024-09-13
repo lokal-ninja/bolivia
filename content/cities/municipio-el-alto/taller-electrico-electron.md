@@ -1,5 +1,5 @@
 ---
 title: "Taller electrico Electron"
 url: /municipio-el-alto/taller-electrico-electron/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

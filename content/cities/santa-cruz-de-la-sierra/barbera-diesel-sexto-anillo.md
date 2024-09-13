@@ -1,5 +1,5 @@
 ---
 title: "Barbera Diesel"
 url: /santa-cruz-de-la-sierra/barbera-diesel-sexto-anillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

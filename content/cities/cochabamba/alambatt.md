@@ -1,5 +1,5 @@
 ---
 title: "AlamBatt"
 url: /cochabamba/alambatt/
-shop: Autoteile
+shop: piezas de automóviles
 ---

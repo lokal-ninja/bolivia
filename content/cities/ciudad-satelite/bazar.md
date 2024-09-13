@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
 url: /ciudad-satelite/bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

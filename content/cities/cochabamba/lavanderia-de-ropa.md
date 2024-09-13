@@ -1,5 +1,5 @@
 ---
 title: "Lavandería de Ropa"
 url: /cochabamba/lavanderia-de-ropa/
-shop: Wäscherei
+shop: lavandería
 ---

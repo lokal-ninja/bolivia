@@ -1,5 +1,5 @@
 ---
 title: "Rapsodia"
 url: /santa-cruz-de-la-sierra/rapsodia/
-shop: Allgemein
+shop: general
 ---

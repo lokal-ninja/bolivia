@@ -1,5 +1,5 @@
 ---
 title: "Bicicletería París"
 url: /cochabamba/bicicleteria-paris/
-shop: Fahrrad
+shop: bicicleta
 ---

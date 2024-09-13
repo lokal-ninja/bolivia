@@ -1,5 +1,5 @@
 ---
 title: "Fluchos"
 url: /cochabamba/fluchos/
-shop: Schuhe
+shop: zapatos
 ---

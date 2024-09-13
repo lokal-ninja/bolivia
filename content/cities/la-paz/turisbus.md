@@ -1,5 +1,5 @@
 ---
 title: "Turisbus"
 url: /la-paz/turisbus/
-shop: Reisebüro
+shop: agencia de viajes
 ---

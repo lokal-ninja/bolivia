@@ -1,5 +1,5 @@
 ---
 title: "ZEDANI"
 url: /la-paz/zedani/
-shop: Schuhe
+shop: zapatos
 ---

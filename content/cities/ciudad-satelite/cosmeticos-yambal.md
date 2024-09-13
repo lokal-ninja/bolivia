@@ -1,5 +1,5 @@
 ---
 title: "Cosmeticos Yambal"
 url: /ciudad-satelite/cosmeticos-yambal/
-shop: Drogerie
+shop: farmacia
 ---

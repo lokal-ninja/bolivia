@@ -1,5 +1,5 @@
 ---
 title: "AutoPerno Importaciones"
 url: /cochabamba/autoperno-importaciones/
-shop: Autoteile
+shop: piezas de automóviles
 ---

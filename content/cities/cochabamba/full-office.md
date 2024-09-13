@@ -1,5 +1,5 @@
 ---
 title: "Full Office"
 url: /cochabamba/full-office/
-shop: Schreibwaren
+shop: material de oficina
 ---

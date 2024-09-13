@@ -1,5 +1,5 @@
 ---
 title: "Animal's Shopping"
 url: /cochabamba/animals-shopping/
-shop: Tiere
+shop: mascotas
 ---

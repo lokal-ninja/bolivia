@@ -1,5 +1,5 @@
 ---
 title: "Nicadi"
 url: /cochabamba/nicadi/
-shop: Süßwaren
+shop: confitería
 ---

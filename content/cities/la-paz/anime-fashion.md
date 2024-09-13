@@ -1,5 +1,5 @@
 ---
 title: "Anime Fashion"
 url: /la-paz/anime-fashion/
-shop: Anime
+shop: anime
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volksur"
 url: /la-paz/volksur/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

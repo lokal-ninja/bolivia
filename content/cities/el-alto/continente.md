@@ -1,5 +1,5 @@
 ---
 title: "Continente"
 url: /el-alto/continente/
-shop: Tickets
+shop: entradas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Llanteria"
 url: /mizque/llanteria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

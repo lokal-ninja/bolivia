@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Vriedades"
 url: /ciudad-satelite/tienda-de-vriedades/
-shop: Lebensmittel
+shop: comodidad
 ---

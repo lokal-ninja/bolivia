@@ -1,5 +1,5 @@
 ---
 title: "Toyosa"
 url: /cochabamba/toyosa/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gustosso"
 url: /cochabamba/gustosso/
-shop: Bäckerei
+shop: panadería
 ---

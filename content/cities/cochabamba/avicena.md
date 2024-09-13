@@ -1,5 +1,5 @@
 ---
 title: "Avicena"
 url: /cochabamba/avicena/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

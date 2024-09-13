@@ -1,5 +1,5 @@
 ---
 title: "ES Santiaguito"
 url: /la-palizada/es-santiaguito/
-shop: Lebensmittel
+shop: comodidad
 ---

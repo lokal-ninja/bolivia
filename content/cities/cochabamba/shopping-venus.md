@@ -1,5 +1,5 @@
 ---
 title: "Shopping Venus"
 url: /cochabamba/shopping-venus/
-shop: Warenhaus
+shop: grandes almacenes
 ---

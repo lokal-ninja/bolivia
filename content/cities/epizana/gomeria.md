@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /epizana/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

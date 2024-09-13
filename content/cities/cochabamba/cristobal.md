@@ -1,5 +1,5 @@
 ---
 title: "Cristobal"
 url: /cochabamba/cristobal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

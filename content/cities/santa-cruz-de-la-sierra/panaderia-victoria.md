@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Victoria"
 url: /santa-cruz-de-la-sierra/panaderia-victoria/
-shop: Bäckerei
+shop: panadería
 ---

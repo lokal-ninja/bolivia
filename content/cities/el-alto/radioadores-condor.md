@@ -1,5 +1,5 @@
 ---
 title: "Radioadores Condor"
 url: /el-alto/radioadores-condor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

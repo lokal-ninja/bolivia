@@ -1,5 +1,5 @@
 ---
 title: "Petgroom"
 url: /cochabamba/petgroom/
-shop: Tiere
+shop: mascotas
 ---

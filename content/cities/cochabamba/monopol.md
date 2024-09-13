@@ -1,5 +1,5 @@
 ---
 title: "MONOPOL"
 url: /cochabamba/monopol/
-shop: Farben
+shop: pintura
 ---

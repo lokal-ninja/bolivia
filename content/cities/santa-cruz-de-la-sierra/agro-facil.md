@@ -1,5 +1,5 @@
 ---
 title: "Agro Fácil"
 url: /santa-cruz-de-la-sierra/agro-facil/
-shop: Allgemein
+shop: general
 ---

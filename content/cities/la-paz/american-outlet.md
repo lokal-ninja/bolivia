@@ -1,5 +1,5 @@
 ---
 title: "American Outlet"
 url: /la-paz/american-outlet/
-shop: Kleidung
+shop: ropa
 ---

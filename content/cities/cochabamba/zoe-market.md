@@ -1,5 +1,5 @@
 ---
 title: "Zoe Market"
 url: /cochabamba/zoe-market/
-shop: Supermarkt
+shop: supermercado
 ---

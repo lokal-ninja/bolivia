@@ -1,5 +1,5 @@
 ---
 title: "AutoTeam"
 url: /cochabamba/autoteam/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

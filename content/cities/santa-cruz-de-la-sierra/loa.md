@@ -1,5 +1,5 @@
 ---
 title: "Loa"
 url: /santa-cruz-de-la-sierra/loa/
-shop: Allgemein
+shop: general
 ---

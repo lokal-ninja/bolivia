@@ -1,5 +1,5 @@
 ---
 title: "PROTEL"
 url: /ciudad-satelite/protel/
-shop: Radiotechnik
+shop: radiotecnia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almanza"
 url: /la-paz/almanza/
-shop: Kleidung
+shop: ropa
 ---

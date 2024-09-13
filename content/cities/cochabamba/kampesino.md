@@ -1,5 +1,5 @@
 ---
 title: "Kampesino"
 url: /cochabamba/kampesino/
-shop: Hofladen
+shop: granja
 ---

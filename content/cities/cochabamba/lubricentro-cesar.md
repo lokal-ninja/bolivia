@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Cesar"
 url: /cochabamba/lubricentro-cesar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

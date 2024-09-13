@@ -1,5 +1,5 @@
 ---
 title: "llanteria"
 url: /municipio-cobija/llanteria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

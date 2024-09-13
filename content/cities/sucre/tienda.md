@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /sucre/tienda/
-shop: Dorfladen
+shop: tienda rural
 ---

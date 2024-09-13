@@ -1,5 +1,5 @@
 ---
 title: "Grosella"
 url: /santa-cruz-de-la-sierra/grosella/
-shop: Kleidung
+shop: ropa
 ---

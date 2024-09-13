@@ -1,5 +1,5 @@
 ---
 title: "Hogar"
 url: /cochabamba/hogar/
-shop: Immobilien
+shop: agente inmobiliario
 ---

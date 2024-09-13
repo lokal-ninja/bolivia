@@ -1,5 +1,5 @@
 ---
 title: "Electrónica"
 url: /alpacoma/electronica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

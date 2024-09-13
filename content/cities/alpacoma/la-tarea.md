@@ -1,5 +1,5 @@
 ---
 title: "La Tarea"
 url: /alpacoma/la-tarea/
-shop: Schreibwaren
+shop: material de oficina
 ---

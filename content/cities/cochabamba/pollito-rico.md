@@ -1,5 +1,5 @@
 ---
 title: "Pollito Rico"
 url: /cochabamba/pollito-rico/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yeso"
 url: /cochabamba/yeso/
-shop: Baustoffe
+shop: comercio
 ---

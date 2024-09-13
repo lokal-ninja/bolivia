@@ -1,5 +1,5 @@
 ---
 title: "Faros"
 url: /cochabamba/faros/
-shop: Immobilien
+shop: agente inmobiliario
 ---

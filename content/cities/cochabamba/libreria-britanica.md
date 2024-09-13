@@ -1,5 +1,5 @@
 ---
 title: "Librería Británica"
 url: /cochabamba/libreria-britanica/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colchones Anairam"
 url: /ciudad-satelite/colchones-anairam/
-shop: Betten
+shop: cama
 ---

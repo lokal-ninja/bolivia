@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Calacoto"
 url: /la-paz/ferreteria-calacoto/
-shop: Eisenwaren
+shop: hardware
 ---

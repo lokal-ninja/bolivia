@@ -1,5 +1,5 @@
 ---
 title: "Baterías"
 url: /cochabamba/baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

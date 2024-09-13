@@ -1,5 +1,5 @@
 ---
 title: "Sembrar Sartawi"
 url: /el-puente/sembrar-sartawi/
-shop: Landwirtschaftlich
+shop: agraria
 ---

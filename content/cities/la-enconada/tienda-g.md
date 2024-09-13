@@ -1,5 +1,5 @@
 ---
 title: "Tienda G."
 url: /la-enconada/tienda-g/
-shop: Lebensmittel
+shop: comodidad
 ---

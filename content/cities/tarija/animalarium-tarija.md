@@ -1,5 +1,5 @@
 ---
 title: "Animalarium Tarija"
 url: /tarija/animalarium-tarija/
-shop: Tiere
+shop: mascotas
 ---

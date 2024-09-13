@@ -1,5 +1,5 @@
 ---
 title: "CeluCentrum"
 url: /cochabamba/celucentrum/
-shop: Handy
+shop: teléfono móvil
 ---

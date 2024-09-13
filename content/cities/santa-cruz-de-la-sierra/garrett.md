@@ -1,5 +1,5 @@
 ---
 title: "Garrett"
 url: /santa-cruz-de-la-sierra/garrett/
-shop: Allgemein
+shop: general
 ---

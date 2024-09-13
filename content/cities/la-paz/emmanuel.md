@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel"
 url: /la-paz/emmanuel/
-shop: Kramladen
+shop: tienda de variedades
 ---

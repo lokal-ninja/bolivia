@@ -1,5 +1,5 @@
 ---
 title: "Impulse"
 url: /cochabamba/impulse-avenida-jaime-mendoza/
-shop: Sport
+shop: deportes
 ---

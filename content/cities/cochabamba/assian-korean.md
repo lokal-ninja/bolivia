@@ -1,5 +1,5 @@
 ---
 title: "Assian Korean"
 url: /cochabamba/assian-korean/
-shop: Supermarkt
+shop: supermercado
 ---

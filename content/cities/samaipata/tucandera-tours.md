@@ -1,5 +1,5 @@
 ---
 title: "Tucandera Tours"
 url: /samaipata/tucandera-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

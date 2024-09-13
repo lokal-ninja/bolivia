@@ -1,5 +1,5 @@
 ---
 title: "Stephan"
 url: /la-paz/stephan/
-shop: Allgemein
+shop: general
 ---

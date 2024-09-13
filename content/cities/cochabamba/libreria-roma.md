@@ -1,5 +1,5 @@
 ---
 title: "Librería Roma"
 url: /cochabamba/libreria-roma/
-shop: Schreibwaren
+shop: material de oficina
 ---

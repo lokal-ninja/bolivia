@@ -1,5 +1,5 @@
 ---
 title: "IMCRUZ"
 url: /ciudad-satelite/imcruz/
-shop: Autohaus
+shop: coche
 ---

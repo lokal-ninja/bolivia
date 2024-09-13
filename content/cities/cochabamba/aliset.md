@@ -1,5 +1,5 @@
 ---
 title: "Aliset"
 url: /cochabamba/aliset/
-shop: Friseur
+shop: peluquería
 ---

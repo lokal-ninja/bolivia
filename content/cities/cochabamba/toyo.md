@@ -1,5 +1,5 @@
 ---
 title: "Toyo"
 url: /cochabamba/toyo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

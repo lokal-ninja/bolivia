@@ -1,5 +1,5 @@
 ---
 title: "Mari Cell"
 url: /montero/mari-cell/
-shop: Handy
+shop: teléfono móvil
 ---

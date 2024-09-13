@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Maya"
 url: /la-paz/ferreteria-maya/
-shop: Eisenwaren
+shop: hardware
 ---

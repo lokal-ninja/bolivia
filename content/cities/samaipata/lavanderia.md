@@ -1,5 +1,5 @@
 ---
-title: "Lavanderia"
+title: "Lavandería"
 url: /samaipata/lavanderia/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papaiz"
 url: /cochabamba/papaiz/
-shop: Eisenwaren
+shop: hardware
 ---

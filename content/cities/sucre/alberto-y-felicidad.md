@@ -1,5 +1,5 @@
 ---
 title: "Alberto y Felicidad"
 url: /sucre/alberto-y-felicidad/
-shop: Allgemein
+shop: general
 ---

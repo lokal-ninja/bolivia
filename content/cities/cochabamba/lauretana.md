@@ -1,5 +1,5 @@
 ---
 title: "Lauretana"
 url: /cochabamba/lauretana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

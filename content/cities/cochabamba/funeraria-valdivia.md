@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Valdivia"
 url: /cochabamba/funeraria-valdivia/
-shop: Bestattungen
+shop: directores de funerarias
 ---

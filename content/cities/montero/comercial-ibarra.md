@@ -1,5 +1,5 @@
 ---
 title: "Comercial Ibarra"
 url: /montero/comercial-ibarra/
-shop: Handy
+shop: teléfono móvil
 ---

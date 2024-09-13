@@ -1,5 +1,5 @@
 ---
 title: "Landhaus Camping"
 url: /la-guardia/landhaus-camping/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucy"
 url: /cochabamba/lucy/
-shop: Spirituosen
+shop: alcohol
 ---

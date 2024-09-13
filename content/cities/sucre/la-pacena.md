@@ -1,5 +1,5 @@
 ---
 title: "La Paceña"
 url: /sucre/la-pacena/
-shop: Supermarkt
+shop: supermercado
 ---

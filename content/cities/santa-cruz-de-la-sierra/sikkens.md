@@ -1,5 +1,5 @@
 ---
 title: "Sikkens"
 url: /santa-cruz-de-la-sierra/sikkens/
-shop: Farben
+shop: pintura
 ---

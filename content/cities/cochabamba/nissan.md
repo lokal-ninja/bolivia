@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /cochabamba/nissan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

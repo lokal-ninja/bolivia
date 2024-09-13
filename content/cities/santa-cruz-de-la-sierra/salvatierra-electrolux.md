@@ -1,5 +1,5 @@
 ---
 title: "Salvatierra Electrolux"
 url: /santa-cruz-de-la-sierra/salvatierra-electrolux/
-shop: Elektronik
+shop: electrónica
 ---

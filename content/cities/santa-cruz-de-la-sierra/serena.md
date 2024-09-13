@@ -1,5 +1,5 @@
 ---
 title: "Serena"
 url: /santa-cruz-de-la-sierra/serena/
-shop: Allgemein
+shop: general
 ---

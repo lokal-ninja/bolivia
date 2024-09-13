@@ -1,5 +1,5 @@
 ---
 title: "Improcons"
 url: /la-paz/improcons/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercado Negro"
 url: /tarija/mercado-negro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nahomi"
 url: /ciudad-satelite/nahomi/
-shop: Kramladen
+shop: tienda de variedades
 ---

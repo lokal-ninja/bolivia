@@ -1,5 +1,5 @@
 ---
 title: "moda's"
 url: /la-paz/modas/
-shop: Schneiderei
+shop: sastre
 ---

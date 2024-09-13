@@ -1,5 +1,5 @@
 ---
 title: "Bottero"
 url: /santa-cruz-de-la-sierra/bottero/
-shop: Schuhe
+shop: zapatos
 ---

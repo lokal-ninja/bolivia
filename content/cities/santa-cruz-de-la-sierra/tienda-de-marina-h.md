@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Marina H."
 url: /santa-cruz-de-la-sierra/tienda-de-marina-h/
-shop: Lebensmittel
+shop: comodidad
 ---

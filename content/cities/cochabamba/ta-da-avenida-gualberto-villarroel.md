@@ -1,5 +1,5 @@
 ---
 title: "Ta Da"
 url: /cochabamba/ta-da-avenida-gualberto-villarroel/
-shop: Spirituosen
+shop: alcohol
 ---

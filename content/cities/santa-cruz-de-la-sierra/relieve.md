@@ -1,5 +1,5 @@
 ---
 title: "Relieve"
 url: /santa-cruz-de-la-sierra/relieve/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ramirex Kids"
 url: /la-paz/ramirex-kids/
-shop: Friseur
+shop: peluquería
 ---

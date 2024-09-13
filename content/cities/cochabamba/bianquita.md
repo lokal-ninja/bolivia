@@ -1,5 +1,5 @@
 ---
 title: "Bianquita"
 url: /cochabamba/bianquita/
-shop: Lebensmittel
+shop: comodidad
 ---

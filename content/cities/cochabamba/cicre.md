@@ -1,5 +1,5 @@
 ---
 title: "CICRE"
 url: /cochabamba/cicre/
-shop: Autoteile
+shop: piezas de automóviles
 ---

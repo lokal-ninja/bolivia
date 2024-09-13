@@ -1,5 +1,5 @@
 ---
 title: "ELECTRORED"
 url: /cochabamba/electrored/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Amiga"
 url: /ciudad-satelite/tienda-amiga/
-shop: Lebensmittel
+shop: comodidad
 ---

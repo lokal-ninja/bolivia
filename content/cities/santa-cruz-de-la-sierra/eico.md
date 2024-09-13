@@ -1,5 +1,5 @@
 ---
 title: "Eico"
 url: /santa-cruz-de-la-sierra/eico/
-shop: Elektronik
+shop: electrónica
 ---

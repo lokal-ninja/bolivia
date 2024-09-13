@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Hipermaxi"
 url: /cochabamba/centro-comercial-hipermaxi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

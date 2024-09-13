@@ -1,5 +1,5 @@
 ---
 title: "Chapería"
 url: /cochabamba/chaperia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

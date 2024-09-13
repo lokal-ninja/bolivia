@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas Vidza"
 url: /cochabamba/parabrisas-vidza/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Palmira"
 url: /ciudad-satelite/tienda-palmira/
-shop: Lebensmittel
+shop: comodidad
 ---

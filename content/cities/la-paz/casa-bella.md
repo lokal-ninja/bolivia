@@ -1,5 +1,5 @@
 ---
 title: "Casa Bella"
 url: /la-paz/casa-bella/
-shop: Andenken
+shop: regalo
 ---

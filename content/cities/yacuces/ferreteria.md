@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /yacuces/ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

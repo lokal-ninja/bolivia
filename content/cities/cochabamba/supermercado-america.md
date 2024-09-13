@@ -1,5 +1,5 @@
 ---
 title: "Supermercado América"
 url: /cochabamba/supermercado-america/
-shop: Supermarkt
+shop: supermercado
 ---

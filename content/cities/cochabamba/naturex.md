@@ -1,5 +1,5 @@
 ---
 title: "Naturex"
 url: /cochabamba/naturex/
-shop: Lebensmittel
+shop: comodidad
 ---

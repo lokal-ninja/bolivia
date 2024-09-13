@@ -1,5 +1,5 @@
 ---
 title: "Moda Arte"
 url: /santa-cruz-de-la-sierra/moda-arte/
-shop: Kunst
+shop: arte
 ---

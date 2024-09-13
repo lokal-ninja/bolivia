@@ -1,5 +1,5 @@
 ---
 title: "AUDIOVICION"
 url: /cochabamba/audiovicion/
-shop: Hörgeräte
+shop: audífonos
 ---

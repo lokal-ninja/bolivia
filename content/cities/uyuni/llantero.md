@@ -1,5 +1,5 @@
 ---
 title: "Llantero"
 url: /uyuni/llantero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

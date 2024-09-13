@@ -1,5 +1,5 @@
 ---
 title: "Lulu"
 url: /cochabamba/lulu/
-shop: Bücher
+shop: libros
 ---

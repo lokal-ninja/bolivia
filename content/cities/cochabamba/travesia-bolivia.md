@@ -1,5 +1,5 @@
 ---
 title: "Travesía Bolivia"
 url: /cochabamba/travesia-bolivia/
-shop: Reisebüro
+shop: agencia de viajes
 ---

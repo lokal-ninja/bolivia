@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Pancho"
 url: /ciudad-satelite/peluqueria-pancho/
-shop: Friseur
+shop: peluquería
 ---

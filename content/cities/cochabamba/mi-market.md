@@ -1,5 +1,5 @@
 ---
 title: "Mi Market"
 url: /cochabamba/mi-market/
-shop: Supermarkt
+shop: supermercado
 ---

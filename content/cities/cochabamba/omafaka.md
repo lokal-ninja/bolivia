@@ -1,5 +1,5 @@
 ---
 title: "Omafaka"
 url: /cochabamba/omafaka/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

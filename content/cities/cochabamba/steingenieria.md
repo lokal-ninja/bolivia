@@ -1,5 +1,5 @@
 ---
 title: "SteIngenieria"
 url: /cochabamba/steingenieria/
-shop: Elektronik
+shop: electrónica
 ---

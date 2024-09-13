@@ -1,5 +1,5 @@
 ---
 title: "Wapas"
 url: /santa-cruz-de-la-sierra/wapas/
-shop: Kosmetik
+shop: cosméticos
 ---

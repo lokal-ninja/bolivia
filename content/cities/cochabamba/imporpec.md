@@ -1,5 +1,5 @@
 ---
 title: "Imporpec"
 url: /cochabamba/imporpec/
-shop: Autoteile
+shop: piezas de automóviles
 ---

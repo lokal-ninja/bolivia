@@ -1,5 +1,5 @@
 ---
 title: "Hansa"
 url: /cochabamba/hansa/
-shop: Autohaus
+shop: coche
 ---

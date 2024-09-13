@@ -1,5 +1,5 @@
 ---
 title: "Planos Ploteo"
 url: /la-paz/planos-ploteo/
-shop: Kopieren
+shop: copyshop
 ---

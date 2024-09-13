@@ -1,5 +1,5 @@
 ---
 title: "Truper"
 url: /cochabamba/truper/
-shop: Eisenwaren
+shop: hardware
 ---

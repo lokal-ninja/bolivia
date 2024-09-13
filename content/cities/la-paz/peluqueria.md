@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /la-paz/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

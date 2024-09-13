@@ -1,5 +1,5 @@
 ---
 title: "Librería Juventud"
 url: /cochabamba/libreria-juventud/
-shop: Schreibwaren
+shop: material de oficina
 ---

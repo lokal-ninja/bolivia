@@ -1,5 +1,5 @@
 ---
 title: "LubriLux"
 url: /cochabamba/lubrilux/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

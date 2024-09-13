@@ -1,5 +1,5 @@
 ---
 title: "Eccobikes"
 url: /tiquipaya/eccobikes/
-shop: Fahrrad
+shop: bicicleta
 ---

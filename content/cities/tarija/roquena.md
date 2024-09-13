@@ -1,5 +1,5 @@
 ---
 title: "Roqueña"
 url: /tarija/roquena/
-shop: Allgemein
+shop: general
 ---

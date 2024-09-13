@@ -1,5 +1,5 @@
 ---
 title: "Funeraria"
 url: /cochabamba/funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

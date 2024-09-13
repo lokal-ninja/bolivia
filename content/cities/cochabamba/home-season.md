@@ -1,5 +1,5 @@
 ---
 title: "Home Season"
 url: /cochabamba/home-season/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

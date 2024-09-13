@@ -1,5 +1,5 @@
 ---
 title: "Veg"
 url: /cochabamba/veg/
-shop: Bioladen
+shop: alimentación sana
 ---

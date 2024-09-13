@@ -1,5 +1,5 @@
 ---
 title: "Tienda D.N."
 url: /la-paz/tienda-d-n/
-shop: Lebensmittel
+shop: comodidad
 ---

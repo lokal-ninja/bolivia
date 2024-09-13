@@ -1,5 +1,5 @@
 ---
 title: "Best Beauty Stories"
 url: /la-paz/best-beauty-stories/
-shop: Kosmetik
+shop: cosméticos
 ---

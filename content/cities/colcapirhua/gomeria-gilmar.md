@@ -1,5 +1,5 @@
 ---
 title: "Gomería Gilmar"
 url: /colcapirhua/gomeria-gilmar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

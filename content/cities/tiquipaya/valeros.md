@@ -1,5 +1,5 @@
 ---
 title: "Valeros"
 url: /tiquipaya/valeros/
-shop: Eisenwaren
+shop: hardware
 ---

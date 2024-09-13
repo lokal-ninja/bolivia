@@ -1,5 +1,5 @@
 ---
 title: "Full Accesorios"
 url: /la-paz/full-accesorios/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bisuteria"
 url: /ciudad-satelite/bisuteria/
-shop: Lebensmittel
+shop: comodidad
 ---

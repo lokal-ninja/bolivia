@@ -1,5 +1,5 @@
 ---
 title: "AmasZonas"
 url: /la-paz/amaszonas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

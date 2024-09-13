@@ -1,5 +1,5 @@
 ---
 title: "NirvanaNet"
 url: /cochabamba/nirvananet/
-shop: Schreibwaren
+shop: material de oficina
 ---

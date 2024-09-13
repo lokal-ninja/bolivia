@@ -1,5 +1,5 @@
 ---
 title: "Detour"
 url: /la-paz/detour/
-shop: Allgemein
+shop: general
 ---

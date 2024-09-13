@@ -1,5 +1,5 @@
 ---
 title: "Importadora Valdez"
 url: /cochabamba/importadora-valdez/
-shop: Kramladen
+shop: tienda de variedades
 ---

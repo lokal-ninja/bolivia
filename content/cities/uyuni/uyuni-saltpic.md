@@ -1,5 +1,5 @@
 ---
 title: "Uyuni Saltpic"
 url: /uyuni/uyuni-saltpic/
-shop: Reisebüro
+shop: agencia de viajes
 ---

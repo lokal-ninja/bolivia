@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
 url: /cochabamba/bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

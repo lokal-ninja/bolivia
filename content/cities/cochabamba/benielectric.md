@@ -1,5 +1,5 @@
 ---
 title: "BeniElectric"
 url: /cochabamba/benielectric/
-shop: Elektrisch
+shop: eléctrico
 ---

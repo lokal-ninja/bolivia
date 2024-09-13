@@ -1,5 +1,5 @@
 ---
 title: "Athina Tours"
 url: /la-paz/athina-tours/
-shop: Allgemein
+shop: general
 ---

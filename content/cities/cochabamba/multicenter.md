@@ -1,5 +1,5 @@
 ---
 title: "Multicenter"
 url: /cochabamba/multicenter/
-shop: Kramladen
+shop: tienda de variedades
 ---

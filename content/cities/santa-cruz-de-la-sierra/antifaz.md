@@ -1,5 +1,5 @@
 ---
 title: "Antifaz"
 url: /santa-cruz-de-la-sierra/antifaz/
-shop: Kleidung
+shop: ropa
 ---

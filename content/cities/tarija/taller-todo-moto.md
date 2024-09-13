@@ -1,5 +1,5 @@
 ---
 title: "Taller Todo Moto"
 url: /tarija/taller-todo-moto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

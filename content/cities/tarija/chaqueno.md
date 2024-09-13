@@ -1,5 +1,5 @@
 ---
 title: "Chaqueño"
 url: /tarija/chaqueno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

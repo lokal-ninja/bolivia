@@ -1,5 +1,5 @@
 ---
 title: "Bazar de Todo un Poco"
 url: /ciudad-satelite/bazar-de-todo-un-poco/
-shop: Kramladen
+shop: tienda de variedades
 ---

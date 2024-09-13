@@ -1,5 +1,5 @@
 ---
 title: "Imcruz"
 url: /sacaba/imcruz/
-shop: Autohaus
+shop: coche
 ---

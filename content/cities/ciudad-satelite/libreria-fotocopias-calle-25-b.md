@@ -1,5 +1,5 @@
 ---
 title: "Librería - Fotocopias"
 url: /ciudad-satelite/libreria-fotocopias-calle-25-b/
-shop: Schreibwaren
+shop: material de oficina
 ---

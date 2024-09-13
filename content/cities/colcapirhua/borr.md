@@ -1,5 +1,5 @@
 ---
 title: "Borr"
 url: /colcapirhua/borr/
-shop: Reisebüro
+shop: agencia de viajes
 ---

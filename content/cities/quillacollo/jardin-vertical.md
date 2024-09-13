@@ -1,5 +1,5 @@
 ---
 title: "Jardin Vertical"
 url: /quillacollo/jardin-vertical/
-shop: Garten-Center
+shop: centro de jardinería
 ---

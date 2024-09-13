@@ -1,5 +1,5 @@
 ---
 title: "Weidling"
 url: /cochabamba/weidling/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

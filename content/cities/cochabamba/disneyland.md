@@ -1,5 +1,5 @@
 ---
 title: "Disneyland"
 url: /cochabamba/disneyland/
-shop: Zeitungen
+shop: quiosco
 ---

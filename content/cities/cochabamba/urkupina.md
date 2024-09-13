@@ -1,5 +1,5 @@
 ---
 title: "Urkupiña"
 url: /cochabamba/urkupina/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solo Flores"
 url: /cochabamba/solo-flores/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selfie Boutique"
 url: /cochabamba/selfie-boutique/
-shop: Kleidung
+shop: ropa
 ---

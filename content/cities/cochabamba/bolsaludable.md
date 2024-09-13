@@ -1,5 +1,5 @@
 ---
 title: "BolSaludable"
 url: /cochabamba/bolsaludable/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Rolvy"
 url: /vallegrande/casa-rolvy/
-shop: Kleidung
+shop: ropa
 ---

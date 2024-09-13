@@ -1,5 +1,5 @@
 ---
 title: "Tropical Tours"
 url: /la-paz/tropical-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

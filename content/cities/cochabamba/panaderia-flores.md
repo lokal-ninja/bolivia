@@ -1,5 +1,5 @@
 ---
 title: "Panadería Flores"
 url: /cochabamba/panaderia-flores/
-shop: Bäckerei
+shop: panadería
 ---

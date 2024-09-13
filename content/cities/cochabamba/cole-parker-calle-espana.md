@@ -1,5 +1,5 @@
 ---
 title: "Cole Parker"
 url: /cochabamba/cole-parker-calle-espana/
-shop: Kleidung
+shop: ropa
 ---

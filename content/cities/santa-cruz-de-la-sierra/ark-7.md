@@ -1,5 +1,5 @@
 ---
 title: "Ark 7"
 url: /santa-cruz-de-la-sierra/ark-7/
-shop: Handy
+shop: teléfono móvil
 ---

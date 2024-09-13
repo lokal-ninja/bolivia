@@ -1,5 +1,5 @@
 ---
 title: "Atocha"
 url: /cochabamba/atocha/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abril"
 url: /la-paz/abril/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elpeflor"
 url: /cochabamba/elpeflor/
-shop: Lebensmittel
+shop: comodidad
 ---

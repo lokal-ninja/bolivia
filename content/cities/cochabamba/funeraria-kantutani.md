@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Kantutani"
 url: /cochabamba/funeraria-kantutani/
-shop: Bestattungen
+shop: directores de funerarias
 ---

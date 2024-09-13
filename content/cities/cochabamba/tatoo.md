@@ -1,5 +1,5 @@
 ---
 title: "Tatoo"
 url: /cochabamba/tatoo/
-shop: Tattoo
+shop: tatuaje
 ---

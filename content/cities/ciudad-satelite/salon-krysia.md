@@ -1,5 +1,5 @@
 ---
 title: "Salon KRYSIA"
 url: /ciudad-satelite/salon-krysia/
-shop: Kosmetik
+shop: cosméticos
 ---

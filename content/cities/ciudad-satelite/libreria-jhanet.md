@@ -1,5 +1,5 @@
 ---
 title: "Libreria Jhanet"
 url: /ciudad-satelite/libreria-jhanet/
-shop: Schreibwaren
+shop: material de oficina
 ---

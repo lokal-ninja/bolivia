@@ -1,5 +1,5 @@
 ---
 title: "Triple A"
 url: /municipio-el-alto/triple-a/
-shop: Kramladen
+shop: tienda de variedades
 ---

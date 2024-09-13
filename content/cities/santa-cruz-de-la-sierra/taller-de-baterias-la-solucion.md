@@ -1,5 +1,5 @@
 ---
 title: "Taller de Baterias La Solucion"
 url: /santa-cruz-de-la-sierra/taller-de-baterias-la-solucion/
-shop: Autoteile
+shop: piezas de automóviles
 ---

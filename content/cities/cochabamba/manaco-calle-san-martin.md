@@ -1,5 +1,5 @@
 ---
 title: "Manaco"
 url: /cochabamba/manaco-calle-san-martin/
-shop: Schuhe
+shop: zapatos
 ---

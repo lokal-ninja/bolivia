@@ -1,5 +1,5 @@
 ---
 title: "TriJ"
 url: /cochabamba/trij/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

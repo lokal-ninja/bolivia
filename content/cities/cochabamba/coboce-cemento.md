@@ -1,5 +1,5 @@
 ---
 title: "Coboce Cemento"
 url: /cochabamba/coboce-cemento/
-shop: Baustoffe
+shop: comercio
 ---

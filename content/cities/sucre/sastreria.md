@@ -1,5 +1,5 @@
 ---
 title: "Sastreria"
 url: /sucre/sastreria/
-shop: Schneiderei
+shop: sastre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria"
 url: /ciudad-satelite/carniceria-calle-f/
-shop: Metzgerei
+shop: carnicero
 ---

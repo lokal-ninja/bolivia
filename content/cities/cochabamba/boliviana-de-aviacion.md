@@ -1,5 +1,5 @@
 ---
 title: "Boliviana de Aviación"
 url: /cochabamba/boliviana-de-aviacion/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multitienda L y M"
 url: /ciudad-satelite/multitienda-l-y-m/
-shop: Lebensmittel
+shop: comodidad
 ---

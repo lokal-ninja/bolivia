@@ -1,5 +1,5 @@
 ---
 title: "Reparación de Celulares"
 url: /alpacoma/reparacion-de-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

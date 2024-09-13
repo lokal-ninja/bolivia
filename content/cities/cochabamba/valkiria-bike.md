@@ -1,5 +1,5 @@
 ---
 title: "Valkiria Bike"
 url: /cochabamba/valkiria-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

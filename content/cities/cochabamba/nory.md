@@ -1,5 +1,5 @@
 ---
 title: "Nory"
 url: /cochabamba/nory/
-shop: Lebensmittel
+shop: comodidad
 ---

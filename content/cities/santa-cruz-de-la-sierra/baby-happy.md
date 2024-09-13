@@ -1,5 +1,5 @@
 ---
 title: "Baby Happy"
 url: /santa-cruz-de-la-sierra/baby-happy/
-shop: Babysachen
+shop: artículos para bebés
 ---

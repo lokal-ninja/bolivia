@@ -1,5 +1,5 @@
 ---
 title: "Tortas Especiales"
 url: /ciudad-satelite/tortas-especiales/
-shop: Konditorei
+shop: pastelería
 ---

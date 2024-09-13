@@ -1,5 +1,5 @@
 ---
 title: "Expediciones Tambo Loma"
 url: /uyuni/expediciones-tambo-loma/
-shop: Reisebüro
+shop: agencia de viajes
 ---

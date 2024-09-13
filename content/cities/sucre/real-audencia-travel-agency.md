@@ -1,5 +1,5 @@
 ---
 title: "Real Audencia Travel Agency"
 url: /sucre/real-audencia-travel-agency/
-shop: Reisebüro
+shop: agencia de viajes
 ---

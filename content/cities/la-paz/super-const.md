@@ -1,5 +1,5 @@
 ---
 title: "Super Const"
 url: /la-paz/super-const/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libreria El Estudiante"
 url: /tiquipaya/libreria-el-estudiante/
-shop: Schreibwaren
+shop: material de oficina
 ---

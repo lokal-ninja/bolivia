@@ -1,5 +1,5 @@
 ---
 title: "Webs"
 url: /cochabamba/webs/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

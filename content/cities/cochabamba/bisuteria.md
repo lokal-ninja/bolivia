@@ -1,5 +1,5 @@
 ---
 title: "Bisutería"
 url: /cochabamba/bisuteria/
-shop: Schmuck
+shop: joyería
 ---

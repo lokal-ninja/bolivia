@@ -1,5 +1,5 @@
 ---
 title: "Aditec"
 url: /cochabamba/aditec/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilma Rodriguez Peluquería"
 url: /cochabamba/wilma-rodriguez-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

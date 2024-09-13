@@ -1,5 +1,5 @@
 ---
 title: "Empapelados Colowall"
 url: /cochabamba/empapelados-colowall/
-shop: Raumausstattung
+shop: decoración interior
 ---

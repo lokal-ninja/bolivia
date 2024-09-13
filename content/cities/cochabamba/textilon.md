@@ -1,5 +1,5 @@
 ---
 title: "Textilón"
 url: /cochabamba/textilon/
-shop: Kleidung
+shop: ropa
 ---

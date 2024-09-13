@@ -1,5 +1,5 @@
 ---
 title: "Libreria Paris"
 url: /cochabamba/libreria-paris/
-shop: Schreibwaren
+shop: material de oficina
 ---

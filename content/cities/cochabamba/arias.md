@@ -1,5 +1,5 @@
 ---
 title: "Arias"
 url: /cochabamba/arias/
-shop: Motorrad
+shop: motocicleta
 ---

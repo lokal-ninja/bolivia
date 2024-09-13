@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria Automotriz"
 url: /cochabamba/tapiceria-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

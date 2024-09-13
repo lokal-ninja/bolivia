@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mar"
 url: /ciudad-satelite/tienda-mar/
-shop: Lebensmittel
+shop: comodidad
 ---

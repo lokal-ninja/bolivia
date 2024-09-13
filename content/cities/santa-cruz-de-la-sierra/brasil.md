@@ -1,5 +1,5 @@
 ---
 title: "Brasil"
 url: /santa-cruz-de-la-sierra/brasil/
-shop: Schreibwaren
+shop: material de oficina
 ---

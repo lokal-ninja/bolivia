@@ -1,5 +1,5 @@
 ---
 title: "Miyuki"
 url: /la-paz/miyuki/
-shop: Schreibwaren
+shop: material de oficina
 ---

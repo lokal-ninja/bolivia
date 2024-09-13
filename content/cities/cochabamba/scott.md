@@ -1,5 +1,5 @@
 ---
 title: "Scott"
 url: /cochabamba/scott/
-shop: Autohaus
+shop: coche
 ---

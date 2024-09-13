@@ -1,5 +1,5 @@
 ---
 title: "Muebles Silvera"
 url: /la-paz/muebles-silvera-avenida-montenegro/
-shop: Möbel
+shop: muebles
 ---

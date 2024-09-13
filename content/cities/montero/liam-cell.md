@@ -1,5 +1,5 @@
 ---
 title: "Liam Cell"
 url: /montero/liam-cell/
-shop: Handy
+shop: teléfono móvil
 ---

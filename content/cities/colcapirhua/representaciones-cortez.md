@@ -1,5 +1,5 @@
 ---
 title: "Representaciones Cortez"
 url: /colcapirhua/representaciones-cortez/
-shop: Eisenwaren
+shop: hardware
 ---

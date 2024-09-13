@@ -1,5 +1,5 @@
 ---
 title: "Belo Estilista"
 url: /la-paz/belo-estilista/
-shop: Friseur
+shop: peluquería
 ---

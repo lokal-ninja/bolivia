@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /la-paz/radioshack-calle-21/
-shop: Elektronik
+shop: electrónica
 ---

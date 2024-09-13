@@ -1,5 +1,5 @@
 ---
 title: "Optirama"
 url: /cochabamba/optirama/
-shop: Optiker
+shop: óptico
 ---

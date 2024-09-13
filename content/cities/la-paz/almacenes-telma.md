@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Telma"
 url: /la-paz/almacenes-telma/
-shop: Lebensmittel
+shop: comodidad
 ---

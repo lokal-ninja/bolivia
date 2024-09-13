@@ -1,5 +1,5 @@
 ---
 title: "Muebleria"
 url: /shinahota/muebleria/
-shop: Möbel
+shop: muebles
 ---

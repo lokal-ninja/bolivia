@@ -1,5 +1,5 @@
 ---
 title: "AutoClínica FMX"
 url: /cochabamba/autoclinica-fmx/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

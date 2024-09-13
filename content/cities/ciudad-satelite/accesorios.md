@@ -1,5 +1,5 @@
 ---
 title: "Accesorios"
 url: /ciudad-satelite/accesorios/
-shop: Lebensmittel
+shop: comodidad
 ---

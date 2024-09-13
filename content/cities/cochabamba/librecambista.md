@@ -1,5 +1,5 @@
 ---
 title: "Librecambista"
 url: /cochabamba/librecambista/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agencia Frial"
 url: /villa-tunari/agencia-frial/
-shop: Metzgerei
+shop: carnicero
 ---

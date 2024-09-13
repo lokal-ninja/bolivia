@@ -1,5 +1,5 @@
 ---
 title: "Skemas"
 url: /cochabamba/skemas/
-shop: Lebensmittel
+shop: comodidad
 ---

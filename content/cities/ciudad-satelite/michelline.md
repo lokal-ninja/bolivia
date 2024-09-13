@@ -1,5 +1,5 @@
 ---
 title: "Michelline"
 url: /ciudad-satelite/michelline/
-shop: Bäckerei
+shop: panadería
 ---

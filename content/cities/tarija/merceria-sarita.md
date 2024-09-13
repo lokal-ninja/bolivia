@@ -1,5 +1,5 @@
 ---
 title: "Merceria Sarita"
 url: /tarija/merceria-sarita/
-shop: Dorfladen
+shop: tienda rural
 ---

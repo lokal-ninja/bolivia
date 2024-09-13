@@ -1,5 +1,5 @@
 ---
 title: "Lozada"
 url: /cochabamba/lozada/
-shop: Eisenwaren
+shop: hardware
 ---

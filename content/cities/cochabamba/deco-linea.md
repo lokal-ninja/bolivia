@@ -1,5 +1,5 @@
 ---
 title: "Deco Linea"
 url: /cochabamba/deco-linea/
-shop: Baustoffe
+shop: comercio
 ---

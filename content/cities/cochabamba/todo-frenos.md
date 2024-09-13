@@ -1,5 +1,5 @@
 ---
 title: "Todo Frenos"
 url: /cochabamba/todo-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

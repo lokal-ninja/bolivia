@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes YPFB"
 url: /el-alto/lubricantes-ypfb/
-shop: Autoteile
+shop: piezas de automóviles
 ---

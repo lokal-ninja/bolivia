@@ -1,5 +1,5 @@
 ---
 title: "Llanteria"
 url: /samaipata/llanteria-avenida-barrientos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

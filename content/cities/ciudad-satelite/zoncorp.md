@@ -1,5 +1,5 @@
 ---
 title: "ZONCORP"
 url: /ciudad-satelite/zoncorp/
-shop: Möbel
+shop: muebles
 ---

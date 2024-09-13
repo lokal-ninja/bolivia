@@ -1,5 +1,5 @@
 ---
 title: "Ivian Make Up"
 url: /ciudad-satelite/ivian-make-up/
-shop: Kosmetik
+shop: cosméticos
 ---

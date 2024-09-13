@@ -1,5 +1,5 @@
 ---
 title: "EL CHINO"
 url: /sucre/el-chino/
-shop: Allgemein
+shop: general
 ---

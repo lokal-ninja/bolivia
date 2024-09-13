@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Doña C."
 url: /el-alto/carniceria-dona-c/
-shop: Metzgerei
+shop: carnicero
 ---

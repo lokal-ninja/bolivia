@@ -1,5 +1,5 @@
 ---
 title: "Llanteria El Paltal"
 url: /cobija/llanteria-el-paltal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

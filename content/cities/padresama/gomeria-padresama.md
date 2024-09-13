@@ -1,5 +1,5 @@
 ---
 title: "Gomeria Padresama"
 url: /padresama/gomeria-padresama/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

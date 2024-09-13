@@ -1,5 +1,5 @@
 ---
 title: "Tigre"
 url: /cochabamba/tigre/
-shop: Friseur
+shop: peluquería
 ---

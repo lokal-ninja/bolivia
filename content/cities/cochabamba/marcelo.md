@@ -1,5 +1,5 @@
 ---
 title: "Marcelo"
 url: /cochabamba/marcelo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

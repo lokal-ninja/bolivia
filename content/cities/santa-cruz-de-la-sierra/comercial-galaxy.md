@@ -1,5 +1,5 @@
 ---
 title: "Comercial Galaxy"
 url: /santa-cruz-de-la-sierra/comercial-galaxy/
-shop: Elektronik
+shop: electrónica
 ---

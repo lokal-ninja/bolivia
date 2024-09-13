@@ -1,5 +1,5 @@
 ---
 title: "Peluqieria"
 url: /alpacoma/peluqieria/
-shop: Friseur
+shop: peluquería
 ---

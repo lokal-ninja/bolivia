@@ -1,5 +1,5 @@
 ---
 title: "Mary Choque"
 url: /tiquipaya/mary-choque/
-shop: Lebensmittel
+shop: comodidad
 ---

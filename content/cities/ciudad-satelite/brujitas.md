@@ -1,5 +1,5 @@
 ---
 title: "BRUJITAS"
 url: /ciudad-satelite/brujitas/
-shop: Kleidung
+shop: ropa
 ---

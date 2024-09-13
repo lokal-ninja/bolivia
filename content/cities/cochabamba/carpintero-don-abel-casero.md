@@ -1,5 +1,5 @@
 ---
 title: "Carpintero Don Abel Casero"
 url: /cochabamba/carpintero-don-abel-casero/
-shop: Möbel
+shop: muebles
 ---

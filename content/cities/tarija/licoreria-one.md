@@ -1,5 +1,5 @@
 ---
 title: "Licoreria One"
 url: /tarija/licoreria-one/
-shop: Spirituosen
+shop: alcohol
 ---

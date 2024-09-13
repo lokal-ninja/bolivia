@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes"
 url: /ciudad-satelite/lubricantes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

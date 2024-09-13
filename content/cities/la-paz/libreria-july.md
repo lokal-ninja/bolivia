@@ -1,5 +1,5 @@
 ---
 title: "Libreria July"
 url: /la-paz/libreria-july/
-shop: Bücher
+shop: libros
 ---

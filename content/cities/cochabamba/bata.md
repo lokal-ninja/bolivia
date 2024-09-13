@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /cochabamba/bata/
-shop: Schuhe
+shop: zapatos
 ---

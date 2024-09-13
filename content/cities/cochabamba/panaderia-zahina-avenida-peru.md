@@ -1,5 +1,5 @@
 ---
 title: "Panadería Zahína"
 url: /cochabamba/panaderia-zahina-avenida-peru/
-shop: Bäckerei
+shop: panadería
 ---

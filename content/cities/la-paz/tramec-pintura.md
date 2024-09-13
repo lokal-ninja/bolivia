@@ -1,5 +1,5 @@
 ---
 title: "Tramec Pintura"
 url: /la-paz/tramec-pintura/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

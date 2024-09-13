@@ -1,5 +1,5 @@
 ---
 title: "Dragon Rojo"
 url: /tarija/dragon-rojo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

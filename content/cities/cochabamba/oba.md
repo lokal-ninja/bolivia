@@ -1,5 +1,5 @@
 ---
 title: "OBA"
 url: /cochabamba/oba/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zona Libre"
 url: /santa-cruz-de-la-sierra/zona-libre/
-shop: Schuhe
+shop: zapatos
 ---

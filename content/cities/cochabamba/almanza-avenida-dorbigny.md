@@ -1,5 +1,5 @@
 ---
 title: "Almanza"
 url: /cochabamba/almanza-avenida-dorbigny/
-shop: Kleidung
+shop: ropa
 ---

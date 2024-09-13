@@ -1,5 +1,5 @@
 ---
 title: "Tienda Amiga"
 url: /santa-cruz-de-la-sierra/tienda-amiga/
-shop: Warenhaus
+shop: grandes almacenes
 ---

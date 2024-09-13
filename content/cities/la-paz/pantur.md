@@ -1,5 +1,5 @@
 ---
 title: "Pantur"
 url: /la-paz/pantur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emily"
 url: /cochabamba/emily/
-shop: Kiosk
+shop: quiosco
 ---

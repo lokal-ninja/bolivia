@@ -1,5 +1,5 @@
 ---
 title: "Viajes Tejada"
 url: /cochabamba/viajes-tejada/
-shop: Reisebüro
+shop: agencia de viajes
 ---

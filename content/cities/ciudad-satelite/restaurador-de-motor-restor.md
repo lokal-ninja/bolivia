@@ -1,5 +1,5 @@
 ---
 title: "Restaurador de Motor RESTOR"
 url: /ciudad-satelite/restaurador-de-motor-restor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doña Petrona"
 url: /potosi/dona-petrona/
-shop: Lebensmittel
+shop: comodidad
 ---

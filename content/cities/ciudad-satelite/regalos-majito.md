@@ -1,5 +1,5 @@
 ---
 title: "Regalos Majito"
 url: /ciudad-satelite/regalos-majito/
-shop: Andenken
+shop: regalo
 ---

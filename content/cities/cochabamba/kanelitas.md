@@ -1,5 +1,5 @@
 ---
 title: "Kanelitas"
 url: /cochabamba/kanelitas/
-shop: Lebensmittel
+shop: comodidad
 ---

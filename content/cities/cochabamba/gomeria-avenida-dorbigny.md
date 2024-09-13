@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /cochabamba/gomeria-avenida-dorbigny/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

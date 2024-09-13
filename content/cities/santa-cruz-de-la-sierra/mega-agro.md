@@ -1,5 +1,5 @@
 ---
 title: "Mega Agro"
 url: /santa-cruz-de-la-sierra/mega-agro/
-shop: Landwirtschaftlich
+shop: agraria
 ---

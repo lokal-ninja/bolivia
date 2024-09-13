@@ -1,5 +1,5 @@
 ---
 title: "Tauro"
 url: /santa-cruz-de-la-sierra/tauro/
-shop: Schmuck
+shop: joyería
 ---

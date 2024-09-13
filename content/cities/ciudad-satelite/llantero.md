@@ -1,5 +1,5 @@
 ---
 title: "Llantero"
 url: /ciudad-satelite/llantero/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoStar"
 url: /el-alto/autostar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

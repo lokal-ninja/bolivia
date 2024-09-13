@@ -1,5 +1,5 @@
 ---
 title: "Mascotas"
 url: /ciudad-satelite/mascotas/
-shop: Tiere
+shop: mascotas
 ---

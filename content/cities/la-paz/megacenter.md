@@ -1,5 +1,5 @@
 ---
 title: "Megacenter"
 url: /la-paz/megacenter/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

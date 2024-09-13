@@ -1,5 +1,5 @@
 ---
 title: "Libreria VIVI"
 url: /ciudad-satelite/libreria-vivi/
-shop: Schreibwaren
+shop: material de oficina
 ---

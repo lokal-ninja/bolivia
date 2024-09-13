@@ -1,5 +1,5 @@
 ---
 title: "Colorín"
 url: /cochabamba/colorin/
-shop: Schreibwaren
+shop: material de oficina
 ---

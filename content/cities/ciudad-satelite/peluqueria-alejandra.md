@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Alejandra"
 url: /ciudad-satelite/peluqueria-alejandra/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paola Cell"
 url: /montero/paola-cell/
-shop: Handy
+shop: teléfono móvil
 ---

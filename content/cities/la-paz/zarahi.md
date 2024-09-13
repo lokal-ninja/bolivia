@@ -1,5 +1,5 @@
 ---
 title: "Zarahi"
 url: /la-paz/zarahi/
-shop: Kleidung
+shop: ropa
 ---

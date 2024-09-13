@@ -1,5 +1,5 @@
 ---
 title: "Baupercar"
 url: /cochabamba/baupercar/
-shop: Betten
+shop: cama
 ---

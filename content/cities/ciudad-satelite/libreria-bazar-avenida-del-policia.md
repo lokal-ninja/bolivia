@@ -1,5 +1,5 @@
 ---
 title: "Libreria Bazar"
 url: /ciudad-satelite/libreria-bazar-avenida-del-policia/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ABIRIEL Boutique"
 url: /ciudad-satelite/abiriel-boutique/
-shop: Kleidung
+shop: ropa
 ---

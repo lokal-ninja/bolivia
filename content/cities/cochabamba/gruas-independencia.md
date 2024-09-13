@@ -1,5 +1,5 @@
 ---
 title: "Gruas Independencia"
 url: /cochabamba/gruas-independencia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

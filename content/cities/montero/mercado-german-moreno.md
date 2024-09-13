@@ -1,5 +1,5 @@
 ---
 title: "Mercado Germán Moreno"
 url: /montero/mercado-german-moreno/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

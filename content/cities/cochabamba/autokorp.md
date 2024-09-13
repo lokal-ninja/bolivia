@@ -1,5 +1,5 @@
 ---
 title: "Autokorp"
 url: /cochabamba/autokorp/
-shop: Autohaus
+shop: coche
 ---

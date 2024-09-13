@@ -1,5 +1,5 @@
 ---
 title: "Potitos"
 url: /la-paz/potitos/
-shop: Babysachen
+shop: artículos para bebés
 ---

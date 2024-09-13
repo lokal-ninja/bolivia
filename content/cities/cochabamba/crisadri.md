@@ -1,5 +1,5 @@
 ---
 title: "CrisAdri"
 url: /cochabamba/crisadri/
-shop: Badezimmer
+shop: cuarto de baño
 ---

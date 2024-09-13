@@ -1,5 +1,5 @@
 ---
 title: "Hipermaxi"
 url: /ciudad-satelite/hipermaxi/
-shop: Supermarkt
+shop: supermercado
 ---

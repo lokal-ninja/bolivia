@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Colombus"
 url: /cochabamba/ferreteria-colombus/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fibra de vidrio SAMUEL AARON"
 url: /ciudad-satelite/fibra-de-vidrio-samuel-aaron/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadora Brandy"
 url: /cochabamba/fotocopiadora-brandy/
-shop: Kopieren
+shop: copyshop
 ---

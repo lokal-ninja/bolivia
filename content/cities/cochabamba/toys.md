@@ -1,5 +1,5 @@
 ---
 title: "Toys"
 url: /cochabamba/toys/
-shop: Spielzeug
+shop: juguetes
 ---

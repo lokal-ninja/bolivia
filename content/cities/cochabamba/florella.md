@@ -1,5 +1,5 @@
 ---
 title: "Florella"
 url: /cochabamba/florella/
-shop: Andenken
+shop: regalo
 ---

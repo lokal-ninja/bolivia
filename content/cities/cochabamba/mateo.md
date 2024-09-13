@@ -1,5 +1,5 @@
 ---
 title: "Mateo"
 url: /cochabamba/mateo/
-shop: Schreibwaren
+shop: material de oficina
 ---

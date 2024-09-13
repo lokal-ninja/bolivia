@@ -1,5 +1,5 @@
 ---
 title: "Frigorifico Chapare"
 url: /cochabamba/frigorifico-chapare/
-shop: Metzgerei
+shop: carnicero
 ---

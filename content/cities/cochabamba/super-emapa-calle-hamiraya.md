@@ -1,5 +1,5 @@
 ---
 title: "Super EMAPA"
 url: /cochabamba/super-emapa-calle-hamiraya/
-shop: Supermarkt
+shop: supermercado
 ---

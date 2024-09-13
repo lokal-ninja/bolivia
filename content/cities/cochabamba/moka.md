@@ -1,5 +1,5 @@
 ---
 title: "Moka"
 url: /cochabamba/moka/
-shop: Lebensmittel
+shop: comodidad
 ---

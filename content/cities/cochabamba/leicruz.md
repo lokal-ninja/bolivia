@@ -1,5 +1,5 @@
 ---
 title: "Leicruz"
 url: /cochabamba/leicruz/
-shop: Farben
+shop: pintura
 ---

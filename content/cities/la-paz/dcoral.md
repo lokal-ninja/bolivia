@@ -1,5 +1,5 @@
 ---
 title: "D'Coral"
 url: /la-paz/dcoral/
-shop: Allgemein
+shop: general
 ---

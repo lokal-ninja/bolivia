@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /la-paz/bmw/
-shop: Autohaus
+shop: coche
 ---

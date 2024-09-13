@@ -1,5 +1,5 @@
 ---
 title: "Llantero"
 url: /ciudad-satelite/llantero-avenida-satelite/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

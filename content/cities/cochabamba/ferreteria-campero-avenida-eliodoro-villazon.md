@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Campero"
 url: /cochabamba/ferreteria-campero-avenida-eliodoro-villazon/
-shop: Eisenwaren
+shop: hardware
 ---

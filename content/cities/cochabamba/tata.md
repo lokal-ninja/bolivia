@@ -1,5 +1,5 @@
 ---
 title: "Tata"
 url: /cochabamba/tata/
-shop: Bäckerei
+shop: panadería
 ---

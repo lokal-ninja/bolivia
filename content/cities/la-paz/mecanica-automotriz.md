@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Automotriz"
 url: /la-paz/mecanica-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

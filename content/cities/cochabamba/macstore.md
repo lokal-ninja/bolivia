@@ -1,5 +1,5 @@
 ---
 title: "MacStore"
 url: /cochabamba/macstore/
-shop: Handy
+shop: teléfono móvil
 ---

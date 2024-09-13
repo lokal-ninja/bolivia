@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Viajes Mena"
 url: /tarija/agencia-de-viajes-mena/
-shop: Reisebüro
+shop: agencia de viajes
 ---

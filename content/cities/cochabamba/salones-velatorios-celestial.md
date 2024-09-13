@@ -1,5 +1,5 @@
 ---
 title: "Salones Velatorios Celestial"
 url: /cochabamba/salones-velatorios-celestial/
-shop: Bestattungen
+shop: directores de funerarias
 ---

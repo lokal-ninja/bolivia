@@ -1,5 +1,5 @@
 ---
 title: "Casa Sarah"
 url: /santa-cruz-de-la-sierra/casa-sarah/
-shop: Kleidung
+shop: ropa
 ---

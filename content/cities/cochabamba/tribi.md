@@ -1,5 +1,5 @@
 ---
 title: "Tribi"
 url: /cochabamba/tribi/
-shop: Schreibwaren
+shop: material de oficina
 ---

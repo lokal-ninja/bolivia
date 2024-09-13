@@ -1,5 +1,5 @@
 ---
 title: "Jacqueline"
 url: /cochabamba/jacqueline/
-shop: Friseur
+shop: peluquería
 ---

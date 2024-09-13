@@ -1,5 +1,5 @@
 ---
 title: "Librería Irbe"
 url: /cochabamba/libreria-irbe/
-shop: Schreibwaren
+shop: material de oficina
 ---

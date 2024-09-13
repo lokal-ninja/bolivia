@@ -1,5 +1,5 @@
 ---
 title: "ELVA"
 url: /tarija/elva/
-shop: Kosmetik
+shop: cosméticos
 ---

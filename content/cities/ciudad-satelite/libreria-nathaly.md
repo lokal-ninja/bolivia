@@ -1,5 +1,5 @@
 ---
 title: "Librería Nathaly"
 url: /ciudad-satelite/libreria-nathaly/
-shop: Schreibwaren
+shop: material de oficina
 ---

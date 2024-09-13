@@ -1,5 +1,5 @@
 ---
 title: "iPlace Bolivia"
 url: /cochabamba/iplace-bolivia/
-shop: Computer
+shop: ordenador
 ---

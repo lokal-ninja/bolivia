@@ -1,5 +1,5 @@
 ---
 title: "Positivo"
 url: /santa-cruz-de-la-sierra/positivo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

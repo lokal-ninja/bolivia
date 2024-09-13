@@ -1,5 +1,5 @@
 ---
 title: "Vistony"
 url: /cochabamba/vistony/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

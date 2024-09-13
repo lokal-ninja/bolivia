@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /confital/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

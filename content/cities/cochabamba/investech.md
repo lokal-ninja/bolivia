@@ -1,5 +1,5 @@
 ---
 title: "InvesTech"
 url: /cochabamba/investech/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

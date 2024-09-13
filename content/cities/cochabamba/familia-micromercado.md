@@ -1,5 +1,5 @@
 ---
 title: "Familia Micromercado"
 url: /cochabamba/familia-micromercado/
-shop: Lebensmittel
+shop: comodidad
 ---

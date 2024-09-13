@@ -1,5 +1,5 @@
 ---
 title: "Laboratorio Automotriz"
 url: /ciudad-satelite/laboratorio-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

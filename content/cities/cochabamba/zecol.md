@@ -1,5 +1,5 @@
 ---
 title: "Zecol"
 url: /cochabamba/zecol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

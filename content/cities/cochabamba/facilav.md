@@ -1,5 +1,5 @@
 ---
 title: "Facilav"
 url: /cochabamba/facilav/
-shop: Wäscherei
+shop: lavandería
 ---

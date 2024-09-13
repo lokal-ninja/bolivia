@@ -1,5 +1,5 @@
 ---
 title: "Tecno Cell"
 url: /montero/tecno-cell/
-shop: Handy
+shop: teléfono móvil
 ---

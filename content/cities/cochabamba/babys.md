@@ -1,5 +1,5 @@
 ---
 title: "Babys"
 url: /cochabamba/babys/
-shop: Babysachen
+shop: artículos para bebés
 ---

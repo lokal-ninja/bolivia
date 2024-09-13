@@ -1,5 +1,5 @@
 ---
 title: "Illimani"
 url: /cochabamba/illimani/
-shop: Immobilien
+shop: agente inmobiliario
 ---

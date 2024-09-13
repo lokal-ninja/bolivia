@@ -1,5 +1,5 @@
 ---
 title: "Albert Cell"
 url: /montero/albert-cell/
-shop: Handy
+shop: teléfono móvil
 ---

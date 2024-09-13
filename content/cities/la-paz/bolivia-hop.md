@@ -1,5 +1,5 @@
 ---
 title: "Bolivia Hop"
 url: /la-paz/bolivia-hop/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Los Girasoles"
 url: /la-paz/los-girasoles/
-shop: Allgemein
+shop: general
 ---

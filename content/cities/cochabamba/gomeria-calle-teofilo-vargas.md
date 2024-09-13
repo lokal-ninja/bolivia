@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /cochabamba/gomeria-calle-teofilo-vargas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

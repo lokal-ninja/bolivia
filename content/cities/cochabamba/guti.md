@@ -1,5 +1,5 @@
 ---
 title: "Guti"
 url: /cochabamba/guti/
-shop: Schuhe
+shop: zapatos
 ---

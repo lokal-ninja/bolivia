@@ -1,5 +1,5 @@
 ---
 title: "Hipermaxi"
 url: /la-paz/hipermaxi-avenida-hernando-siles/
-shop: Supermarkt
+shop: supermercado
 ---

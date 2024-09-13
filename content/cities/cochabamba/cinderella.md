@@ -1,5 +1,5 @@
 ---
 title: "cinderella"
 url: /cochabamba/cinderella/
-shop: Kleidung
+shop: ropa
 ---

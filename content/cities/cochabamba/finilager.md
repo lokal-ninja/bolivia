@@ -1,5 +1,5 @@
 ---
 title: "Finilager"
 url: /cochabamba/finilager/
-shop: Autoteile
+shop: piezas de automóviles
 ---

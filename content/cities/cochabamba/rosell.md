@@ -1,5 +1,5 @@
 ---
 title: "Rosell"
 url: /cochabamba/rosell/
-shop: Lebensmittel
+shop: comodidad
 ---

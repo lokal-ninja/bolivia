@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /cochabamba/central/
-shop: Immobilien
+shop: agente inmobiliario
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /la-paz/volkswagen-avenida-ballivian/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atihealthy"
 url: /cochabamba/atihealthy/
-shop: Bioladen
+shop: alimentación sana
 ---

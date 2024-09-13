@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadora"
 url: /cochabamba/fotocopiadora/
-shop: Kopieren
+shop: copyshop
 ---

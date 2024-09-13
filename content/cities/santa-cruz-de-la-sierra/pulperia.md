@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /santa-cruz-de-la-sierra/pulperia/
-shop: Lebensmittel
+shop: comodidad
 ---

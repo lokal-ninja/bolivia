@@ -1,5 +1,5 @@
 ---
 title: "Agus SPA"
 url: /ciudad-satelite/agus-spa/
-shop: Kosmetik
+shop: cosméticos
 ---

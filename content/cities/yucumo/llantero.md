@@ -1,5 +1,5 @@
 ---
 title: "Llantero"
 url: /yucumo/llantero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

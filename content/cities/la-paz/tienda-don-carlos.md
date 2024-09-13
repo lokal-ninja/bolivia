@@ -1,5 +1,5 @@
 ---
 title: "Tienda Don Carlos"
 url: /la-paz/tienda-don-carlos/
-shop: Allgemein
+shop: general
 ---

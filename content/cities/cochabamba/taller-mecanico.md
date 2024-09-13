@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecánico"
 url: /cochabamba/taller-mecanico/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

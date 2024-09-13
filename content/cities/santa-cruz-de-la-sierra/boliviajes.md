@@ -1,5 +1,5 @@
 ---
 title: "Boliviajes"
 url: /santa-cruz-de-la-sierra/boliviajes/
-shop: Allgemein
+shop: general
 ---

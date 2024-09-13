@@ -1,5 +1,5 @@
 ---
 title: "Licorería América"
 url: /cochabamba/licoreria-america/
-shop: Spirituosen
+shop: alcohol
 ---

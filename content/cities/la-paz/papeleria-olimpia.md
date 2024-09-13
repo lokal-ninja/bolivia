@@ -1,5 +1,5 @@
 ---
 title: "Papelería Olimpia"
 url: /la-paz/papeleria-olimpia/
-shop: Schreibwaren
+shop: material de oficina
 ---
