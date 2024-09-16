@@ -1,11 +1,11 @@
 id: 442833749
-type: way
+type: node
 latitude: -17.77393
 longitude: -63.18757
 postcode: ""
 city: Santa Cruz de la Sierra
-street: "Avenida Busch"
-housenumber: 502
+street: Avenida Busch
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

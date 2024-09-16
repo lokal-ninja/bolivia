@@ -1,11 +1,11 @@
 id: 974844222
-type: way
+type: node
 latitude: -17.37285
 longitude: -66.15952
 postcode: ""
 city: Cochabamba
-street: "Avenida América"
-housenumber: 342
+street: Avenida América
+housenumber: "342"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-16:30"
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-16:30
 website: ""

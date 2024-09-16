@@ -1,11 +1,11 @@
 id: 440233527
-type: way
+type: node
 latitude: -16.54075
 longitude: -68.07947
 postcode: ""
 city: La Paz
-street: "avenida Montenegro"
-housenumber: 1364
+street: avenida Montenegro
+housenumber: "1364"
 phone: ""
 opening_hours: ""
 website: ""

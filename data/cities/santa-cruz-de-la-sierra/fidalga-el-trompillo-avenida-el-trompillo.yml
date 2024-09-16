@@ -1,11 +1,11 @@
 id: 165911476
-type: way
+type: node
 latitude: -17.80085
 longitude: -63.18344
-postcode: "SCZ"
+postcode: SCZ
 city: Santa Cruz de la Sierra
-street: "Avenida El Trompillo"
-housenumber: 
+street: Avenida El Trompillo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

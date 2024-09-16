@@ -1,11 +1,11 @@
 id: 901374795
-type: way
+type: node
 latitude: -17.37623
 longitude: -66.15104
 postcode: ""
 city: Cochabamba
-street: "Avenida General José Manuel Pando"
-housenumber: 
-phone: "+591 4 4036258"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.casaideas.com.bo/"
+street: Avenida General José Manuel Pando
+housenumber: ""
+phone: +591 4 4036258
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.casaideas.com.bo/

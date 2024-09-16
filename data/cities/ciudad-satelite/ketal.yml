@@ -1,11 +1,11 @@
 id: 783299725
-type: way
+type: node
 latitude: -16.5178
 longitude: -68.15038
 postcode: ""
 city: Ciudad Satélite
-street: "Avenida Panorámica"
-housenumber: 
+street: Avenida Panorámica
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 962787966
-type: way
+type: node
 latitude: -16.52192
 longitude: -68.16263
 postcode: ""
 city: El Alto
-street: "Avenida 2"
-housenumber: 
+street: Avenida 2
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

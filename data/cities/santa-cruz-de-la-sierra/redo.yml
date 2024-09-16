@@ -1,11 +1,11 @@
 id: 441720784
-type: way
+type: node
 latitude: -17.78292
 longitude: -63.18746
 postcode: ""
 city: Santa Cruz de la Sierra
-street: "Junín"
-housenumber: 500
+street: Junín
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

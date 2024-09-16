@@ -1,11 +1,11 @@
 id: 439961315
-type: way
+type: node
 latitude: -16.54014
 longitude: -68.08686
 postcode: ""
 city: La Paz
-street: "Avenida Ballivián"
-housenumber: 624
+street: Avenida Ballivián
+housenumber: "624"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30"
+opening_hours: Mo-Fr 09:00-19:30
 website: ""

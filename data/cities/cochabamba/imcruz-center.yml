@@ -1,11 +1,11 @@
 id: 972708025
-type: way
+type: node
 latitude: -17.37267
 longitude: -66.16648
 postcode: ""
 city: Cochabamba
-street: "Calle José Quintín Mendoza"
-housenumber: 
-phone: "+591 4 4410464;800121800"
-opening_hours: "Mo-Fr 07:00-12:30,14:30-17:00; Sa 08:00-12:30"
-website: "https://www.imcruzcenter.com.bo/"
+street: Calle José Quintín Mendoza
+housenumber: ""
+phone: +591 4 4410464;800121800
+opening_hours: Mo-Fr 07:00-12:30,14:30-17:00; Sa 08:00-12:30
+website: https://www.imcruzcenter.com.bo/

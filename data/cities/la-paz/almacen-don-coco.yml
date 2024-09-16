@@ -4,8 +4,8 @@ latitude: -16.50681
 longitude: -68.10358
 postcode: ""
 city: La Paz
-street: "calle 19"
-housenumber: 104
+street: calle 19
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 440052988
-type: way
+type: node
 latitude: -17.78098
 longitude: -63.17961
 postcode: ""
 city: Santa Cruz de la Sierra
-street: "Calle Murillo"
-housenumber: 254
+street: Calle Murillo
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

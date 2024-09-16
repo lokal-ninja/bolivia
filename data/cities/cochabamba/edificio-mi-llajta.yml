@@ -1,11 +1,11 @@
 id: 927193179
-type: way
+type: node
 latitude: -17.39316
 longitude: -66.15884
 postcode: ""
 city: Cochabamba
-street: "Avenida Ayacucho"
-housenumber: 156
-phone: "+591 68500826"
+street: Avenida Ayacucho
+housenumber: "156"
+phone: +591 68500826
 opening_hours: ""
 website: ""

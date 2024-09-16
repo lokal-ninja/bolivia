@@ -1,11 +1,11 @@
 id: 438832563
-type: way
+type: node
 latitude: -16.49201
 longitude: -68.13832
 postcode: ""
 city: La Paz
-street: "Avenida Montes"
-housenumber: 664
+street: Avenida Montes
+housenumber: "664"
 phone: ""
 opening_hours: ""
 website: ""

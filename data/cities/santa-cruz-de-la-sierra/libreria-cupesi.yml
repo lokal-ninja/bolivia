@@ -1,11 +1,11 @@
 id: 1082130342
-type: way
+type: node
 latitude: -17.78972
 longitude: -63.18063
 postcode: ""
 city: Santa Cruz de la Sierra
-street: "Calle Moldes"
-housenumber: 23
+street: Calle Moldes
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

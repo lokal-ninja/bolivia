@@ -1,11 +1,11 @@
 id: 981207622
-type: way
+type: node
 latitude: -17.38628
 longitude: -66.15626
 postcode: ""
 city: Cochabamba
-street: "Avenida José Ballivián"
-housenumber: 606
-phone: "+591 4 4250265"
-opening_hours: "Mo-Su 11:00-23:00"
-website: "https://www.luigis.com.bo/"
+street: Avenida José Ballivián
+housenumber: "606"
+phone: +591 4 4250265
+opening_hours: Mo-Su 11:00-23:00
+website: https://www.luigis.com.bo/

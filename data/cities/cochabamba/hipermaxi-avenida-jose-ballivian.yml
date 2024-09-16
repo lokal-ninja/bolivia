@@ -1,11 +1,11 @@
 id: 822436071
-type: way
+type: node
 latitude: -17.38407
 longitude: -66.15888
 postcode: ""
 city: Cochabamba
-street: "Avenida José Ballivián"
-housenumber: 753
+street: Avenida José Ballivián
+housenumber: "753"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://hipermaxi.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://hipermaxi.com/

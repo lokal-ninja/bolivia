@@ -1,11 +1,11 @@
 id: 981910113
-type: way
+type: node
 latitude: -17.39411
 longitude: -66.17186
 postcode: ""
 city: Cochabamba
-street: "Avenida Blanco Galindo"
-housenumber: 1237
-phone: "+591 77941104"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Avenida Blanco Galindo
+housenumber: "1237"
+phone: +591 77941104
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

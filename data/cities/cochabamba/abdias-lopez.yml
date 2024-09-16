@@ -1,11 +1,11 @@
 id: 236025480
-type: way
+type: node
 latitude: -17.37402
 longitude: -66.15154
 postcode: ""
 city: Cochabamba
-street: "Avenida General José Manuel Pando"
-housenumber: 1427
-phone: "+591 70710865"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-20:00; Sa 09:00-13:00,16:00-20:00"
-website: "https://abdiaslopez.com/"
+street: Avenida General José Manuel Pando
+housenumber: "1427"
+phone: +591 70710865
+opening_hours: Mo-Fr 09:00-13:00,15:00-20:00; Sa 09:00-13:00,16:00-20:00
+website: https://abdiaslopez.com/

@@ -1,11 +1,11 @@
 id: 504462526
-type: way
+type: node
 latitude: -21.53878
 longitude: -64.71092
 postcode: "0601"
 city: Tarija
-street: "Avenida Circunvalación"
-housenumber: 
+street: Avenida Circunvalación
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

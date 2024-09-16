@@ -1,11 +1,11 @@
 id: 1104999391
-type: way
+type: node
 latitude: -17.77981
 longitude: -63.19069
 postcode: ""
 city: Santa Cruz de la Sierra
-street: "Avenida Centenario"
-housenumber: 91
+street: Avenida Centenario
+housenumber: "91"
 phone: "60021000"
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

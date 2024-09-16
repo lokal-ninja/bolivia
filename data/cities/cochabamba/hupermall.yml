@@ -1,11 +1,11 @@
 id: 494966174
-type: way
+type: node
 latitude: -17.37589
 longitude: -66.15104
 postcode: ""
 city: Cochabamba
-street: "Avenida General José Manuel Pando"
-housenumber: 846
-phone: "+591 4 4548737"
-opening_hours: "Mo-Su 10:00-22:00"
+street: Avenida General José Manuel Pando
+housenumber: "846"
+phone: +591 4 4548737
+opening_hours: Mo-Su 10:00-22:00
 website: ""

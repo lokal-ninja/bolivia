@@ -1,11 +1,11 @@
 id: 444427262
-type: way
+type: node
 latitude: -16.57211
 longitude: -68.17368
 postcode: ""
 city: Achocalla
-street: "illimani"
-housenumber: 
+street: illimani
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

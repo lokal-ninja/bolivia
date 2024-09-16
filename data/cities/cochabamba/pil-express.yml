@@ -1,11 +1,11 @@
 id: 1085728402
-type: way
+type: node
 latitude: -17.37219
 longitude: -66.18356
 postcode: ""
 city: Cochabamba
-street: "Calle Irigoyen"
-housenumber: 
+street: Calle Irigoyen
+housenumber: ""
 phone: "800104848"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://pilexpress.com.bo/"
+opening_hours: Mo-Su 07:00-21:00
+website: https://pilexpress.com.bo/

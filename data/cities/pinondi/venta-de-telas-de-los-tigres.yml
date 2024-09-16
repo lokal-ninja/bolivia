@@ -1,11 +1,11 @@
 id: 473021670
-type: way
+type: node
 latitude: -19.79505
 longitude: -63.02416
 postcode: ""
 city: Pinondi
-street: "Blumenort # 3"
-housenumber: 
+street: 'Blumenort # 3'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

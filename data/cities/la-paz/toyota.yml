@@ -1,11 +1,11 @@
 id: 440220123
-type: way
+type: node
 latitude: -16.54754
 longitude: -68.07335
 postcode: ""
 city: La Paz
-street: "Calle Monseñor J. Quiroz"
-housenumber: 
+street: Calle Monseñor J. Quiroz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

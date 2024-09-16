@@ -1,11 +1,11 @@
 id: 437827116
-type: way
+type: node
 latitude: -17.75194
 longitude: -63.17646
 postcode: ""
 city: Santa Cruz de la Sierra
-street: "Av. Cristo Redentor"
-housenumber: 
+street: Av. Cristo Redentor
+housenumber: ""
 phone: ""
-opening_hours: "09:00-21:00"
-website: "http://multicenter.com.bo/default.html"
+opening_hours: 09:00-21:00
+website: http://multicenter.com.bo/default.html

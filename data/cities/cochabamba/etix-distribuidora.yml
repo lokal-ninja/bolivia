@@ -1,11 +1,11 @@
 id: 908225297
-type: way
+type: node
 latitude: -17.40025
 longitude: -66.20146
 postcode: ""
 city: Cochabamba
-street: "Avenida Arquímedes"
-housenumber: 4600
-phone: "+591 4 4430730;+591 69412093"
-opening_hours: "Mo-Sa 08:30-11:30"
-website: "https://etix.company/"
+street: Avenida Arquímedes
+housenumber: "4600"
+phone: +591 4 4430730;+591 69412093
+opening_hours: Mo-Sa 08:30-11:30
+website: https://etix.company/

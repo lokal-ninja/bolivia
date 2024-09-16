@@ -1,11 +1,11 @@
 id: 504465680
-type: way
+type: node
 latitude: -21.54291
 longitude: -64.71342
 postcode: "0601"
 city: Tarija
-street: "Avenida Roberto Romero"
-housenumber: 
+street: Avenida Roberto Romero
+housenumber: ""
 phone: ""
-opening_hours: "L-D 9:00 am - 22:00 pm"
+opening_hours: L-D 9:00 am - 22:00 pm
 website: ""

@@ -1,11 +1,11 @@
 id: 1123432403
-type: way
+type: node
 latitude: -17.59149
 longitude: -61.99149
 postcode: ""
 city: Pozo del Tigre
-street: "RN4: Paraiso-San José de Chiquitos"
-housenumber: 
+street: 'RN4: Paraiso-San José de Chiquitos'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

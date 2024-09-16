@@ -1,11 +1,11 @@
 id: 400692524
-type: way
+type: node
 latitude: -17.37718
 longitude: -66.1444
 postcode: ""
 city: Cochabamba
-street: "Avenida Uyuni"
-housenumber: 1185
+street: Avenida Uyuni
+housenumber: "1185"
 phone: ""
 opening_hours: ""
-website: "https://www.toyosa.com/"
+website: https://www.toyosa.com/

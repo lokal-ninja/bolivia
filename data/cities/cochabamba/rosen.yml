@@ -1,11 +1,11 @@
 id: 1307347320
-type: way
+type: node
 latitude: -17.3751
 longitude: -66.15082
 postcode: ""
 city: Cochabamba
-street: "Avenida General José Manuel Pando"
-housenumber: 1314
-phone: "+591 4 4242213;+591 77610064"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-20:00; Sa 09:00-13:30; Su,PH Off"
-website: "https://www.rosen.cl/rosen-bolivia"
+street: Avenida General José Manuel Pando
+housenumber: "1314"
+phone: +591 4 4242213;+591 77610064
+opening_hours: Mo-Fr 09:00-12:30,15:00-20:00; Sa 09:00-13:30; Su,PH Off
+website: https://www.rosen.cl/rosen-bolivia

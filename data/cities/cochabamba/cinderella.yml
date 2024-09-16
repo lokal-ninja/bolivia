@@ -1,11 +1,11 @@
 id: 578653358
-type: way
+type: node
 latitude: -17.38639
 longitude: -66.11977
 postcode: ""
 city: Cochabamba
-street: "Calle Argentina"
-housenumber: 333
+street: Calle Argentina
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""
