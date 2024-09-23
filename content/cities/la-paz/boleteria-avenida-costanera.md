@@ -1,5 +1,5 @@
 ---
 title: "Boletería"
-url: /la-paz/boleteria-2/
+url: /la-paz/boleteria-avenida-costanera/
 shop: entradas
 ---
