@@ -1,5 +1,5 @@
 ---
-title: "IMCRUZ"
+title: "Imcruz"
 url: /cochabamba/imcruz-avenida-america-2/
-shop: coche
+shop: reparación de automóviles
 ---
