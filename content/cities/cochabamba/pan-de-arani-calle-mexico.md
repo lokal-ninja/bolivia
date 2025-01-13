@@ -1,5 +1,5 @@
 ---
 title: "Pan de Arani"
-url: /cochabamba/pan-de-arani-2/
+url: /cochabamba/pan-de-arani-calle-mexico/
 shop: panadería
 ---
