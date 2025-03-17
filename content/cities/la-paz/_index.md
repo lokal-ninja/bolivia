@@ -1,6 +1,6 @@
 ---
 title: La Paz
 url: /la-paz/
-latitude: -16.511
-longitude: -68.123
+latitude: -16.539
+longitude: -68.084
 ---
