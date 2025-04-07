@@ -1,5 +1,5 @@
 ---
 title: "Ketal"
-url: /la-paz/ketal-calle-21/
+url: /la-paz/ketal-avenida-arce/
 shop: supermercado
 ---
