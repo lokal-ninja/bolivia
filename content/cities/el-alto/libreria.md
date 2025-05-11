@@ -1,5 +1,5 @@
 ---
-title: "Libreria"
+title: "Librería"
 url: /el-alto/libreria/
-shop: libros
+shop: supermercado
 ---

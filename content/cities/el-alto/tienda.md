@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /el-alto/tienda/
-shop: general
+shop: supermercado
 ---
