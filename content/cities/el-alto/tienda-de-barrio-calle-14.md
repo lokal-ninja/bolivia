@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Barrio"
-url: /ciudad-satelite/tienda-de-barrio/
+url: /el-alto/tienda-de-barrio-calle-14/
 shop: comodidad
 ---
