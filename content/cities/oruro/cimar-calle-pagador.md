@@ -1,5 +1,5 @@
 ---
 title: "CIMAR"
-url: /oruro/cimar-calle-leon-2/
+url: /oruro/cimar-calle-pagador/
 shop: piezas de automóviles
 ---
