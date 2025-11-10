@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /cochabamba/totto-avenida-santa-cruz/
-shop: ropa
+shop: bolsas y maletas
 ---

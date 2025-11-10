@@ -1,6 +1,6 @@
 ---
 title: La Paz - El Alto
 url: /la-paz-el-alto/
-latitude: -16.525
-longitude: -68.178
+latitude: -16.527
+longitude: -68.183
 ---
