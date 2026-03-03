@@ -1,5 +1,5 @@
 ---
-title: "Pescaderia NOEMI"
+title: "Pescadería Noemí"
 url: /ciudad-satelite/pescaderia-noemi/
 shop: marisco
 ---

@@ -1,6 +1,6 @@
 ---
 title: Punata
 url: /punata/
-latitude: -17.546
-longitude: -65.837
+latitude: -17.545
+longitude: -65.836
 ---
