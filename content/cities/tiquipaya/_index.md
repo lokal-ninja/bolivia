@@ -1,6 +1,6 @@
 ---
 title: Tiquipaya
 url: /tiquipaya/
-latitude: -17.347
-longitude: -66.199
+latitude: -17.337
+longitude: -66.225
 ---
