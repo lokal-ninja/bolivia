@@ -1,6 +1,6 @@
 ---
 title: Tumupasa
 url: /tumupasa/
-latitude: -14.147
+latitude: -14.148
 longitude: -67.889
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Comercial Tellez"
+title: "Comercial Téllez"
 url: /cochabamba/comercial-tellez/
 shop: hardware
 ---
