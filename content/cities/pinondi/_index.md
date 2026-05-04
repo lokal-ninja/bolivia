@@ -1,6 +1,6 @@
 ---
 title: Pinondi
 url: /pinondi/
-latitude: -19.755
-longitude: -63.033
+latitude: -19.795
+longitude: -63.024
 ---
