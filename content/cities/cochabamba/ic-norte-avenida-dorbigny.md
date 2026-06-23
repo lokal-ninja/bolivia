@@ -1,5 +1,5 @@
 ---
 title: "IC Norte"
-url: /cochabamba/ic-norte-avenida-america/
+url: /cochabamba/ic-norte-avenida-dorbigny/
 shop: supermercado
 ---
