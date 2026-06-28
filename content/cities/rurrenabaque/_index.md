@@ -1,6 +1,6 @@
 ---
 title: Rurrenabaque
 url: /rurrenabaque/
-latitude: -14.442
-longitude: -67.53
+latitude: -14.441
+longitude: -67.529
 ---
