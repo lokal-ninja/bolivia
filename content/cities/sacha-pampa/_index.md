@@ -1,6 +1,6 @@
 ---
 title: Sacha Pampa
 url: /sacha-pampa/
-latitude: -18.713
-longitude: -64.508
+latitude: -18.728
+longitude: -64.502
 ---
