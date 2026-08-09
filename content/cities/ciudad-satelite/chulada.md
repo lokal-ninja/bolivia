@@ -1,5 +1,5 @@
 ---
 title: "Chulada"
-url: /el-alto/chulada/
+url: /ciudad-satelite/chulada/
 shop: ropa
 ---
