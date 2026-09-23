@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria Circunvalacion"
+title: "Ferreteria Circunvalación"
 url: /tarija/ferreteria-circunvalacion/
 shop: hardware
 ---

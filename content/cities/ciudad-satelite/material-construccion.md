@@ -1,5 +1,5 @@
 ---
-title: "Material Construccion"
+title: "Material Construcción"
 url: /ciudad-satelite/material-construccion/
 shop: hardware
 ---
